@@ -1,0 +1,4784 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Jobster Plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-08-25 10:24+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.0.1\n"
+"X-Domain: jobster"
+
+#: page-templates/candidate-dashboard.php:378
+#: page-templates/company-dashboard.php:390
+#: page-templates/candidate-dashboard-apps.php:284
+#: page-templates/company-dashboard-candidates.php:347
+#: page-templates/company-dashboard-jobs.php:307
+#: page-templates/candidate-dashboard-favs.php:246
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: admin/libs/import/wordpress-importer.php:637
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: services/users.php:223
+#, php-format
+msgid "%s Team"
+msgstr ""
+
+#: admin/libs/import/wordpress-importer.php:317
+msgid "- Select -"
+msgstr ""
+
+#: services/paypal.php:355
+#, php-format
+msgid "[%s] Job Upgraded to Featured"
+msgstr ""
+
+#: services/paypal.php:414
+#, php-format
+msgid "[%s] Membership Plan Activated"
+msgstr ""
+
+#: services/contact-company.php:66 services/contact-company.php:83
+#, php-format
+msgid "[%s] Message from candidate"
+msgstr ""
+
+#: services/contact-candidate.php:66 services/contact-candidate.php:83
+#, php-format
+msgid "[%s] Message from company"
+msgstr ""
+
+#: services/contact-block.php:46 services/contact-block.php:62
+#, php-format
+msgid "[%s] Message from contact form"
+msgstr ""
+
+#: services/apps.php:249 services/apps.php:257
+#, php-format
+msgid "[%s] New Job Candidate"
+msgstr ""
+
+#: services/paypal.php:358
+#, php-format
+msgid "[%s] New Paid Job Posting"
+msgstr ""
+
+#: services/users.php:212
+#, php-format
+msgid "[%s] New User Sign Up"
+msgstr ""
+
+#: services/users.php:227
+#, php-format
+msgid "[%s] Your username and password"
+msgstr ""
+
+#: services/apps.php:241
+msgid "A new candidate has applied for your job"
+msgstr ""
+
+#: admin/libs/import/wordpress-importer.php:1121
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: page-templates/candidate-dashboard-profile.php:256
+msgid "About"
+msgstr ""
+
+#: page-templates/company-dashboard-profile.php:243
+msgid "About the company"
+msgstr ""
+
+#: page-templates/company-dashboard-subscriptions.php:265
+msgid "Activate Plan"
+msgstr ""
+
+#: page-templates/company-dashboard-subscriptions.php:195
+msgid "Active"
+msgstr ""
+
+#: scripts.php:53 meta/page-meta-header-image-rotator.php:135
+#: meta/page-meta-header-image-rotator.php:220
+#: meta/page-meta-header-image-rotator.php:331
+#: meta/page-meta-header-boxed.php:275
+#: meta/page-meta-header-animated-cards.php:135
+#: meta/page-meta-header-animated-cards.php:259
+#: meta/page-meta-header-image-card.php:135
+#: meta/page-meta-header-illustration.php:135
+#: page-templates/candidate-dashboard-profile.php:673
+#: page-templates/candidate-dashboard-profile.php:843
+#: post-types/candidate.php:329 post-types/candidate.php:420
+msgid "Add"
+msgstr ""
+
+#: page-templates/company-dashboard-new-job.php:59
+msgid "Add a new job to your company's jobs list."
+msgstr ""
+
+#: post-types/candidate.php:17
+msgid "Add Candidate"
+msgstr ""
+
+#: post-types/candidate.php:122
+msgid "Add candidate name"
+msgstr ""
+
+#: post-types/company.php:17
+msgid "Add Company"
+msgstr ""
+
+#: page-templates/company-dashboard-profile.php:93 post-types/company.php:97
+msgid "Add company name"
+msgstr ""
+
+#: page-templates/candidate-dashboard-profile.php:860
+#: post-types/candidate.php:383
+msgid "Add Education"
+msgstr ""
+
+#: page-templates/candidate-dashboard-profile.php:690
+#: post-types/candidate.php:292
+msgid "Add Experience"
+msgstr ""
+
+#: meta/page-meta-header-image-rotator.php:294
+#: meta/page-meta-header-boxed.php:238
+#: meta/page-meta-header-animated-cards.php:222
+msgid "Add Info"
+msgstr ""
+
+#: post-types/invoice.php:17
+msgid "Add Invoice"
+msgstr ""
+
+#: post-types/job.php:17
+msgid "Add Job"
+msgstr ""
+
+#: page-templates/company-dashboard-edit-job.php:143
+#: page-templates/company-dashboard-new-job.php:240 post-types/job.php:153
+msgid "Add job title"
+msgstr ""
+
+#: meta/page-meta-header-image-rotator.php:109
+#: meta/page-meta-header-animated-cards.php:109
+#: meta/page-meta-header-image-card.php:109
+#: meta/page-meta-header-illustration.php:109
+msgid "Add Logo"
+msgstr ""
+
+#: post-types/membership.php:17
+msgid "Add Membership Plan"
+msgstr ""
+
+#: post-types/candidate.php:16
+msgid "Add New Candidate"
+msgstr ""
+
+#: post-types/candidate.php:49
+msgid "Add New Candidate Industry"
+msgstr ""
+
+#: post-types/candidate.php:74
+msgid "Add New Candidate Location"
+msgstr ""
+
+#: post-types/candidate.php:99
+msgid "Add New Candidate Skill"
+msgstr ""
+
+#: post-types/company.php:16
+msgid "Add New Company"
+msgstr ""
+
+#: post-types/company.php:49
+msgid "Add New Company Industry"
+msgstr ""
+
+#: post-types/company.php:74
+msgid "Add New Company Location"
+msgstr ""
+
+#: post-types/invoice.php:16
+msgid "Add New Invoice"
+msgstr ""
+
+#: post-types/job.php:16
+msgid "Add New Job"
+msgstr ""
+
+#: post-types/job.php:74
+msgid "Add New Job Category"
+msgstr ""
+
+#: post-types/job.php:124
+msgid "Add New Job Level"
+msgstr ""
+
+#: post-types/job.php:49
+msgid "Add New Job Location"
+msgstr ""
+
+#: post-types/job.php:99
+msgid "Add New Job Type"
+msgstr ""
+
+#: post-types/membership.php:16
+msgid "Add New Membership Plan"
+msgstr ""
+
+#: post-types/subscriber.php:16
+msgid "Add New Subscriber"
+msgstr ""
+
+#: post-types/testimonial.php:16
+msgid "Add New Testimonial"
+msgstr ""
+
+#: post-types/candidate.php:52
+msgid "Add or remove candidate industries"
+msgstr ""
+
+#: post-types/candidate.php:77
+msgid "Add or remove candidate locations"
+msgstr ""
+
+#: post-types/candidate.php:102
+msgid "Add or remove candidate skills"
+msgstr ""
+
+#: post-types/company.php:52
+msgid "Add or remove company industries"
+msgstr ""
+
+#: post-types/company.php:77
+msgid "Add or remove company locations"
+msgstr ""
+
+#: post-types/job.php:77
+msgid "Add or remove job categories"
+msgstr ""
+
+#: post-types/job.php:127
+msgid "Add or remove job levels"
+msgstr ""
+
+#: post-types/job.php:52
+msgid "Add or remove job locations"
+msgstr ""
+
+#: post-types/job.php:102
+msgid "Add or remove job types"
+msgstr ""
+
+#: meta/page-meta-header-image-rotator.php:194
+msgid "Add Photo"
+msgstr ""
+
+#: page-templates/candidate-dashboard-profile.php:519
+msgid "Add Skill"
+msgstr ""
+
+#: post-types/subscriber.php:17
+msgid "Add Subscriber"
+msgstr ""
+
+#: post-types/testimonial.php:17
+msgid "Add Testimonial"
+msgstr ""
+
+#: page-templates/candidate-dashboard-profile.php:108
+#: page-templates/candidate-dashboard-apply.php:92
+msgid "Add your name"
+msgstr ""
+
+#: page-templates/candidate-dashboard-profile.php:161
+msgid "Add your title"
+msgstr ""
+
+#: page-templates/candidate-dashboard-profile.php:176
+msgid "Add your website URL"
+msgstr ""
+
+#: views/company-dashboard-side.php:87 views/candidate-dashboard-top.php:110
+#: views/candidate-dashboard-side.php:80 views/company-dashboard-top.php:112
+msgid "Admin tools"
+msgstr ""
+
+#: meta/page-meta-header-image-bg.php:72 elementor/widgets/faqs.php:59
+#: elementor/widgets/membership-plans.php:59
+#: elementor/widgets/latest-articles.php:58 elementor/widgets/services.php:153
+#: elementor/widgets/featured-jobs.php:129
+#: elementor/widgets/recent-jobs.php:129
+#: elementor/widgets/featured-candidates.php:129
+#: elementor/widgets/job-locations.php:77
+#: elementor/widgets/job-categories.php:58
+#: elementor/widgets/featured-articles.php:58
+#: elementor/widgets/featured-companies.php:129
+msgid "Align"
+msgstr ""
+
+#: elementor/widgets/featured-jobs.php:35
+#: elementor/widgets/featured-jobs.php:54 elementor/widgets/recent-jobs.php:35
+#: elementor/widgets/recent-jobs.php:54
+#: elementor/widgets/featured-candidates.php:35
+#: elementor/widgets/featured-candidates.php:54
+#: elementor/widgets/job-locations.php:35
+#: elementor/widgets/featured-companies.php:35
+#: elementor/widgets/featured-companies.php:54
+msgid "All"
+msgstr ""
+
+#: post-types/candidate.php:46
+msgid "All Candidate Industries"
+msgstr ""
+
+#: post-types/candidate.php:71
+msgid "All Candidate Locations"
+msgstr ""
+
+#: post-types/candidate.php:96
+msgid "All Candidate Skills"
+msgstr ""
+
+#: blocks/featured-candidates.php:221
+#: elementor/widgets/featured-candidates.php:380
+msgid "All Candidates"
+msgstr ""
+
+#: blocks/job-categories.php:175 blocks/job-categories.php:208
+#: blocks/job-categories.php:357 views/search-jobs-form.php:144
+#: views/search-jobs-form.php:287 views/search-jobs-form-hero.php:194
+#: elementor/widgets/job-categories.php:282
+#: elementor/widgets/job-categories.php:311
+#: elementor/widgets/job-categories.php:438
+msgid "All Categories"
+msgstr ""
+
+#: blocks/featured-companies.php:214
+#: elementor/widgets/featured-companies.php:375
+msgid "All Companies"
+msgstr ""
+
+#: post-types/company.php:46
+msgid "All Company Industries"
+msgstr ""
+
+#: post-types/company.php:71
+msgid "All Company Locations"
+msgstr ""
+
+#: admin/sections/setup.php:70 admin/sections/setup.php:112
+#: admin/sections/setup.php:154 admin/sections/setup.php:196
+#: admin/sections/setup.php:238 admin/sections/setup.php:280
+#: admin/sections/setup.php:322 admin/libs/import/wordpress-importer.php:171
+msgid "All done."
+msgstr ""
+
+#: views/search-candidates-form.php:126 views/search-candidates-form.php:259
+#: views/search-companies-form.php:126 views/search-companies-form.php:259
+msgid "All Industries"
+msgstr ""
+
+#: post-types/job.php:71
+msgid "All Job Categories"
+msgstr ""
+
+#: post-types/job.php:121
+msgid "All Job Levels"
+msgstr ""
+
+#: post-types/job.php:46
+msgid "All Job Locations"
+msgstr ""
+
+#: blocks/featured-jobs.php:759 blocks/recent-jobs.php:757
+#: elementor/widgets/featured-jobs.php:884
+#: elementor/widgets/recent-jobs.php:882
+msgid "All Job Offers"
+msgstr ""
+
+#: post-types/job.php:96
+msgid "All Job Types"
+msgstr ""
+
+#: views/search-candidates-form.php:86 views/search-candidates-form.php:218
+#: views/search-jobs-form.php:104 views/search-jobs-form.php:246
+#: views/search-jobs-form-hero.php:70 views/search-jobs-form-hero.php:120
+#: views/search-jobs-form-hero.php:175 views/search-jobs-form-hero.php:240
+#: views/search-companies-form.php:86 views/search-companies-form.php:218
+msgid "All Locations"
+msgstr ""
+
+#: admin/sections/membership.php:348 admin/sections/membership.php:441
+msgid "All set."
+msgstr ""
+
+#: admin/sections/jobs.php:52
+msgid "Allow candidates to apply to jobs without being registered"
+msgstr ""
+
+#: post-types/company.php:282
+msgid "Allow the company to post jobs regardless of payment method"
+msgstr ""
+
+#: scripts.php:140 scripts.php:181 scripts.php:222
+msgid "Allowed Files"
+msgstr ""
+
+#: views/user-modal.php:182
+msgid "Already have an account?"
+msgstr ""
+
+#: services/users.php:464
+msgid "An email with password reset instructions was sent to you."
+msgstr ""
+
+#: meta/page-meta.php:86
+msgid "Animated Cards"
+msgstr ""
+
+#: meta/page-meta-header-animated-cards.php:12
+msgid "Animated Cards Settings"
+msgstr ""
+
+#: elementor/widgets/faqs.php:102
+msgid "Answer"
+msgstr ""
+
+#: admin/sections/appearance.php:11
+msgid "Appearance"
+msgstr ""
+
+#: page-templates/candidate-dashboard.php:192
+#: page-templates/company-dashboard.php:110
+#: page-templates/company-dashboard.php:193
+#: page-templates/candidate-dashboard-apps.php:97
+#: page-templates/company-dashboard-jobs.php:185
+#: views/candidate-dashboard-top.php:132 views/candidate-dashboard-side.php:112
+msgid "Applications"
+msgstr ""
+
+#: page-templates/company-dashboard.php:511
+#: page-templates/company-dashboard-candidates.php:221
+msgid "Applied for"
+msgstr ""
+
+#: page-templates/company-dashboard-notifications.php:113
+#: page-templates/company-dashboard.php:264 views/company-dashboard-top.php:268
+msgid "applied for"
+msgstr ""
+
+#: blocks/featured-jobs.php:593 blocks/recent-jobs.php:591
+#: page-templates/candidate-dashboard-apps.php:122
+#: page-templates/company-dashboard-candidates.php:159
+#: page-templates/company-dashboard-jobs.php:120
+#: page-templates/candidate-dashboard-apply.php:205
+#: page-templates/job-search.php:464
+#: page-templates/candidate-dashboard-favs.php:94
+#: elementor/widgets/featured-jobs.php:736
+#: elementor/widgets/recent-jobs.php:734
+msgid "Apply"
+msgstr ""
+
+#: page-templates/company-dashboard-edit-job.php:588
+#: page-templates/company-dashboard-new-job.php:617 post-types/job.php:203
+msgid "Apply Job External URL"
+msgstr ""
+
+#: page-templates/candidate-dashboard-apply.php:60
+msgid "Apply to"
+msgstr ""
+
+#: page-templates/company-dashboard-candidates.php:145
+#: page-templates/company-dashboard-candidates.php:382
+msgid "Approve"
+msgstr ""
+
+#: page-templates/company-dashboard-candidates.php:322
+msgid "Approved"
+msgstr ""
+
+#: scripts.php:128 scripts.php:169 scripts.php:210
+msgid "Are you sure you want to delete this?"
+msgstr ""
+
+#: scripts.php:147 scripts.php:188 scripts.php:229
+msgid "Are you sure?"
+msgstr ""
+
+#: admin/sections/blog.php:31
+msgid "Articles Page Design"
+msgstr ""
+
+#: admin/libs/import/wordpress-importer.php:306
+msgid "as a new user:"
+msgstr ""
+
+#: post-types/job.php:284
+msgid "Assign a Company"
+msgstr ""
+
+#: post-types/candidate.php:523 post-types/company.php:371
+msgid "Assign a User"
+msgstr ""
+
+#: admin/libs/import/wordpress-importer.php:259
+msgid "Assign Authors"
+msgstr ""
+
+#: admin/libs/import/wordpress-importer.php:314
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: admin/settings.php:236 admin/sections/authentication.php:11
+msgid "Authentication"
+msgstr ""
+
+#: elementor/widgets/featured-jobs.php:203
+#: elementor/widgets/recent-jobs.php:203
+#: elementor/widgets/featured-candidates.php:179
+#: elementor/widgets/featured-companies.php:179
+msgid "Background Color"
+msgstr ""
+
+#: meta/page-meta-header-top-search.php:51
+#: meta/page-meta-header-image-bg.php:93 elementor/widgets/promo.php:59
+msgid "Background Image"
+msgstr ""
+
+#: meta/page-meta.php:556 elementor/widgets/featured-jobs.php:163
+#: elementor/widgets/recent-jobs.php:163
+#: elementor/widgets/job-locations.php:153
+msgid "Big"
+msgstr ""
+
+#: meta/page-meta-header-boxed.php:123
+msgid "Big Feature Card"
+msgstr ""
+
+#: admin/settings.php:226 admin/sections/blog.php:11
+msgid "Blog"
+msgstr ""
+
+#: admin/sections/blog.php:24
+msgid "Blog Page Subtitle"
+msgstr ""
+
+#: admin/sections/blog.php:17
+msgid "Blog Page Title"
+msgstr ""
+
+#: elementor/widgets/featured-jobs.php:191
+#: elementor/widgets/recent-jobs.php:191
+#: elementor/widgets/featured-candidates.php:167
+#: elementor/widgets/featured-companies.php:167
+msgid "Border"
+msgstr ""
+
+#: admin/sections/blog.php:131
+msgid "Boxed"
+msgstr ""
+
+#: meta/page-meta.php:89
+msgid "Boxed Animation"
+msgstr ""
+
+#: meta/page-meta-header-boxed.php:12
+msgid "Boxed Animation Settings"
+msgstr ""
+
+#: page-templates/candidate-dashboard-apps.php:111
+#: page-templates/company-dashboard-candidates.php:142
+#: page-templates/company-dashboard-jobs.php:104
+#: page-templates/candidate-dashboard-favs.php:83
+msgid "Bulk actions"
+msgstr ""
+
+#: blocks/featured-jobs.php:244 blocks/featured-jobs.php:421
+#: blocks/featured-jobs.php:571 blocks/featured-jobs.php:699
+#: blocks/recent-jobs.php:242 blocks/recent-jobs.php:419
+#: blocks/recent-jobs.php:569 blocks/recent-jobs.php:697
+#: page-templates/job-search.php:220 page-templates/job-search.php:344
+#: page-templates/job-search.php:445 page-templates/job-search.php:527
+#: views/similar-jobs.php:201 elementor/widgets/featured-jobs.php:425
+#: elementor/widgets/featured-jobs.php:583
+#: elementor/widgets/featured-jobs.php:717
+#: elementor/widgets/featured-jobs.php:832
+#: elementor/widgets/recent-jobs.php:423 elementor/widgets/recent-jobs.php:581
+#: elementor/widgets/recent-jobs.php:715 elementor/widgets/recent-jobs.php:830
+msgid "by"
+msgstr ""
+
+#: scripts.php:54 scripts.php:85 scripts.php:149 scripts.php:190
+#: scripts.php:231 meta/page-meta-header-image-rotator.php:136
+#: meta/page-meta-header-image-rotator.php:221
+#: meta/page-meta-header-image-rotator.php:332
+#: meta/page-meta-header-boxed.php:276
+#: meta/page-meta-header-animated-cards.php:136
+#: meta/page-meta-header-animated-cards.php:260
+#: meta/page-meta-header-image-card.php:136
+#: meta/page-meta-header-illustration.php:136
+#: page-templates/candidate-dashboard-profile.php:679
+#: page-templates/candidate-dashboard-profile.php:849
+#: post-types/candidate.php:330 post-types/candidate.php:421
+msgid "Cancel"
+msgstr ""
+
+#: post-types/candidate.php:15
+msgid "Candidate"
+msgstr ""
+
+#: admin/sections/authentication.php:24
+msgid "Candidate After Sign In Redirect Page"
+msgstr ""
+
+#: scripts.php:45 post-types/candidate.php:134
+msgid "Candidate Cover"
+msgstr ""
+
+#: page-templates/init.php:46
+msgid "Candidate Dashboard"
+msgstr ""
+
+#: page-templates/init.php:48
+msgid "Candidate Dashboard - Applications"
+msgstr ""
+
+#: page-templates/init.php:53
+msgid "Candidate Dashboard - Apply"
+msgstr ""
+
+#: page-templates/init.php:50
+msgid "Candidate Dashboard - Change Password"
+msgstr ""
+
+#: page-templates/init.php:49
+msgid "Candidate Dashboard - Favourite Jobs"
+msgstr ""
+
+#: page-templates/init.php:51
+msgid "Candidate Dashboard - Inbox"
+msgstr ""
+
+#: page-templates/init.php:52
+msgid "Candidate Dashboard - Notifications"
+msgstr ""
+
+#: page-templates/init.php:47
+msgid "Candidate Dashboard - Profile"
+msgstr ""
+
+#: post-types/candidate.php:132
+msgid "Candidate Details"
+msgstr ""
+
+#: services/apps.php:244
+#, php-format
+msgid "Candidate email: %s"
+msgstr ""
+
+#: post-types/candidate.php:42 post-types/candidate.php:55
+msgid "Candidate Industries"
+msgstr ""
+
+#: post-types/candidate.php:43
+msgid "Candidate Industry"
+msgstr ""
+
+#: post-types/candidate.php:68
+msgid "Candidate Location"
+msgstr ""
+
+#: post-types/candidate.php:67 post-types/candidate.php:80
+msgid "Candidate Locations"
+msgstr ""
+
+#: views/search-candidates-form.php:55 views/search-candidates-form.php:185
+msgid "Candidate Name or Keyword"
+msgstr ""
+
+#: services/apps.php:243
+#, php-format
+msgid "Candidate name: %s"
+msgstr ""
+
+#: admin/sections/candidates.php:31
+msgid "Candidate Page Access Restrictions"
+msgstr ""
+
+#: admin/sections/candidates.php:24
+msgid "Candidate Page Layout"
+msgstr ""
+
+#: scripts.php:43 post-types/candidate.php:133
+msgid "Candidate Photo"
+msgstr ""
+
+#: scripts.php:60
+msgid "Candidate Resume"
+msgstr ""
+
+#: post-types/membership.php:140
+msgid "Candidate Resume Access"
+msgstr ""
+
+#: page-templates/init.php:35
+msgid "Candidate Search"
+msgstr ""
+
+#: post-types/candidate.php:93
+msgid "Candidate Skill"
+msgstr ""
+
+#: post-types/candidate.php:92 post-types/candidate.php:105
+msgid "Candidate Skills"
+msgstr ""
+
+#: admin/settings.php:216 page-templates/company-dashboard-candidates.php:126
+#: post-types/candidate.php:14 views/company-dashboard-side.php:141
+#: views/company-dashboard-top.php:150 admin/sections/candidates.php:11
+msgid "Candidates"
+msgstr ""
+
+#: page-templates/candidate-search.php:109
+#: page-templates/company-dashboard-candidates.php:180
+#: page-templates/company-dashboard-jobs.php:295
+#: page-templates/company-dashboard-jobs.php:300
+msgid "candidates"
+msgstr ""
+
+#: page-templates/company-dashboard-candidates.php:122
+#, php-format
+msgid "Candidates for <i>%1$s</i>"
+msgstr ""
+
+#: meta/page-meta.php:51
+msgid "Candidates Page Settings"
+msgstr ""
+
+#: admin/sections/candidates.php:17
+msgid "Candidates per Page"
+msgstr ""
+
+#: meta/page-meta-header-top-search.php:76
+#: meta/page-meta-header-image-bg.php:118
+msgid "Caption background opacity"
+msgstr ""
+
+#: meta/page-meta-header-top-search.php:23
+#: meta/page-meta-header-image-rotator.php:23
+#: meta/page-meta-header-boxed.php:23
+#: meta/page-meta-header-animated-cards.php:23
+#: meta/page-meta-header-image-card.php:23
+#: meta/page-meta-header-image-bg.php:23
+#: meta/page-meta-header-illustration.php:23
+msgid "Caption subtitle"
+msgstr ""
+
+#: meta/page-meta-header-top-search.php:17
+#: meta/page-meta-header-image-rotator.php:17
+#: meta/page-meta-header-boxed.php:17
+#: meta/page-meta-header-animated-cards.php:17
+#: meta/page-meta-header-image-card.php:17
+#: meta/page-meta-header-image-bg.php:17
+#: meta/page-meta-header-illustration.php:17
+msgid "Caption title"
+msgstr ""
+
+#: elementor/widgets/promo.php:121
+msgid "Caption Type"
+msgstr ""
+
+#: elementor/widgets/job-locations.php:169
+msgid "Card Background Color"
+msgstr ""
+
+#: elementor/widgets/services.php:145
+msgid "Card Color"
+msgstr ""
+
+#: elementor/widgets/featured-jobs.php:183
+#: elementor/widgets/recent-jobs.php:183
+#: elementor/widgets/featured-candidates.php:159
+#: elementor/widgets/job-categories.php:111
+#: elementor/widgets/featured-companies.php:159
+msgid "Card Design"
+msgstr ""
+
+#: meta/page-meta.php:541
+msgid "Card design"
+msgstr ""
+
+#: elementor/widgets/services.php:186
+msgid "Card Hover Animation"
+msgstr ""
+
+#: elementor/widgets/services.php:71
+msgid "Card Image"
+msgstr ""
+
+#: elementor/widgets/features.php:90 elementor/widgets/features.php:133
+#: elementor/widgets/features.php:176
+msgid "Card Label"
+msgstr ""
+
+#: meta/page-meta-header-boxed.php:67 meta/page-meta-header-boxed.php:129
+msgid "Card label"
+msgstr ""
+
+#: elementor/widgets/features.php:79 elementor/widgets/features.php:122
+#: elementor/widgets/features.php:165
+msgid "Card Number"
+msgstr ""
+
+#: scripts.php:101 meta/page-meta-header-image-card.php:146
+msgid "Card Photo"
+msgstr ""
+
+#: elementor/widgets/features.php:101 elementor/widgets/features.php:144
+#: elementor/widgets/features.php:187
+msgid "Card Text"
+msgstr ""
+
+#: meta/page-meta-header-boxed.php:135
+msgid "Card text"
+msgstr ""
+
+#: elementor/widgets/featured-jobs.php:159
+#: elementor/widgets/recent-jobs.php:159
+#: elementor/widgets/job-locations.php:149
+msgid "Card Type"
+msgstr ""
+
+#: admin/sections/blog.php:113
+msgid "Cards"
+msgstr ""
+
+#: scripts.php:86 meta/page-meta-header-animated-cards.php:146
+msgid "Cards Photo"
+msgstr ""
+
+#: elementor/widgets/job-categories.php:99
+msgid "Carousel"
+msgstr ""
+
+#: page-templates/company-dashboard-edit-job.php:174
+#: page-templates/company-dashboard-new-job.php:264
+#: page-templates/candidate-dashboard-apps.php:193
+#: page-templates/candidate-dashboard-favs.php:160
+#: views/search-jobs-form.php:275 elementor/widgets/featured-jobs.php:106
+#: elementor/widgets/recent-jobs.php:106
+msgid "Category"
+msgstr ""
+
+#: services/save-job.php:65 services/save-job.php:261
+msgid "Category field is mandatory."
+msgstr ""
+
+#: page-templates/company-dashboard-jobs.php:182
+msgid "Category/Type"
+msgstr ""
+
+#: meta/page-meta-header-image-bg.php:77 meta/page-meta.php:221
+#: meta/page-meta.php:429 meta/page-meta.php:644 meta/page-meta.php:786
+#: admin/sections/candidates.php:96 admin/sections/companies.php:89
+#: admin/sections/jobs.php:117 elementor/widgets/faqs.php:67
+#: elementor/widgets/membership-plans.php:67
+#: elementor/widgets/latest-articles.php:66 elementor/widgets/services.php:161
+#: elementor/widgets/featured-jobs.php:137
+#: elementor/widgets/recent-jobs.php:137
+#: elementor/widgets/featured-candidates.php:137
+#: elementor/widgets/job-locations.php:85
+#: elementor/widgets/job-categories.php:66
+#: elementor/widgets/featured-articles.php:66
+#: elementor/widgets/featured-companies.php:137
+msgid "Center"
+msgstr ""
+
+#: page-templates/candidate-dashboard-password.php:36
+#: page-templates/company-dashboard-password.php:36
+#: views/company-dashboard-side.php:163 views/candidate-dashboard-top.php:148
+#: views/candidate-dashboard-side.php:134 views/company-dashboard-top.php:166
+msgid "Change Password"
+msgstr ""
+
+#: page-templates/company-dashboard-new-job.php:703
+#: page-templates/company-dashboard-new-job.php:722
+msgid "Check out the plans"
+msgstr ""
+
+#: page-templates/candidate-dashboard-password.php:38
+#: page-templates/company-dashboard-password.php:38
+msgid "Choose a new account password."
+msgstr ""
+
+#: admin/libs/import/wordpress-importer.php:1137
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: post-types/candidate.php:53
+msgid "Choose from the most used candidate industries"
+msgstr ""
+
+#: post-types/candidate.php:78
+msgid "Choose from the most used candidate locations"
+msgstr ""
+
+#: post-types/candidate.php:103
+msgid "Choose from the most used candidate skills"
+msgstr ""
+
+#: post-types/company.php:53
+msgid "Choose from the most used company industries"
+msgstr ""
+
+#: post-types/company.php:78
+msgid "Choose from the most used company locations"
+msgstr ""
+
+#: post-types/job.php:78
+msgid "Choose from the most used job categories"
+msgstr ""
+
+#: post-types/job.php:128
+msgid "Choose from the most used job levels"
+msgstr ""
+
+#: post-types/job.php:53
+msgid "Choose from the most used job locations"
+msgstr ""
+
+#: post-types/job.php:103
+msgid "Choose from the most used job types"
+msgstr ""
+
+#: blocks/membership-plans.php:239 blocks/membership-plans.php:249
+#: elementor/widgets/membership-plans.php:251
+#: elementor/widgets/membership-plans.php:260
+msgid "Choose Plan"
+msgstr ""
+
+#: views/user-modal.php:36 views/user-modal.php:94 views/user-modal.php:195
+#: views/user-modal.php:226
+msgid "Close"
+msgstr ""
+
+#: admin/settings.php:256 admin/sections/colors.php:11
+msgid "Colors"
+msgstr ""
+
+#: nav/init.php:154
+msgid "Column"
+msgstr ""
+
+#: admin/settings.php:206 post-types/company.php:14
+#: admin/sections/companies.php:11
+msgid "Companies"
+msgstr ""
+
+#: page-templates/company-search.php:80
+msgid "companies"
+msgstr ""
+
+#: meta/page-meta.php:43
+msgid "Companies Page Settings"
+msgstr ""
+
+#: admin/sections/companies.php:17
+msgid "Companies per Page"
+msgstr ""
+
+#: scripts.php:49 page-templates/candidate-dashboard-profile.php:624
+#: page-templates/candidate-dashboard-apps.php:190
+#: page-templates/candidate-dashboard-favs.php:157 post-types/candidate.php:308
+#: post-types/company.php:15 post-types/job.php:167
+msgid "Company"
+msgstr ""
+
+#: admin/sections/authentication.php:31
+msgid "Company After Sign In Redirect Page"
+msgstr ""
+
+#: scripts.php:41 post-types/company.php:110
+msgid "Company Cover"
+msgstr ""
+
+#: page-templates/init.php:36
+msgid "Company Dashboard"
+msgstr ""
+
+#: page-templates/init.php:41
+msgid "Company Dashboard - Candidates"
+msgstr ""
+
+#: page-templates/init.php:43
+msgid "Company Dashboard - Change Password"
+msgstr ""
+
+#: page-templates/init.php:40
+msgid "Company Dashboard - Edit Job"
+msgstr ""
+
+#: page-templates/init.php:44
+msgid "Company Dashboard - Inbox"
+msgstr ""
+
+#: page-templates/init.php:39
+msgid "Company Dashboard - Manage Jobs"
+msgstr ""
+
+#: page-templates/init.php:38
+msgid "Company Dashboard - New Job"
+msgstr ""
+
+#: page-templates/init.php:45
+msgid "Company Dashboard - Notifications"
+msgstr ""
+
+#: page-templates/init.php:37
+msgid "Company Dashboard - Profile"
+msgstr ""
+
+#: page-templates/init.php:42
+msgid "Company Dashboard - Subscriptions"
+msgstr ""
+
+#: post-types/company.php:107
+msgid "Company Details"
+msgstr ""
+
+#: post-types/invoice.php:95
+msgid "Company ID"
+msgstr ""
+
+#: post-types/company.php:42 post-types/company.php:55
+msgid "Company Industries"
+msgstr ""
+
+#: post-types/company.php:43
+msgid "Company Industry"
+msgstr ""
+
+#: post-types/company.php:68
+msgid "Company Location"
+msgstr ""
+
+#: post-types/company.php:67 post-types/company.php:80
+msgid "Company Locations"
+msgstr ""
+
+#: scripts.php:39 post-types/company.php:109
+msgid "Company Logo"
+msgstr ""
+
+#: views/contact-candidate-form.php:45
+msgid "Company Name"
+msgstr ""
+
+#: page-templates/candidate-dashboard-profile.php:631
+#: page-templates/company-dashboard-profile.php:86 views/user-modal.php:148
+#: views/user-modal.php:149
+msgid "Company name"
+msgstr ""
+
+#: views/search-companies-form.php:55 views/search-companies-form.php:185
+msgid "Company Name or Keyword"
+msgstr ""
+
+#: admin/sections/companies.php:24
+msgid "Company Page Layout"
+msgstr ""
+
+#: page-templates/init.php:34
+msgid "Company Search"
+msgstr ""
+
+#: page-templates/company-dashboard.php:156
+msgid "Company's Jobs Visitors"
+msgstr ""
+
+#: services/paypal.php:363
+#, php-format
+msgid "Company: %s"
+msgstr ""
+
+#: services/users.php:304
+msgid "Congratulations! You have successfully signed up."
+msgstr ""
+
+#: views/contact-candidate-form.php:17
+#, php-format
+msgid "Contact %s "
+msgstr ""
+
+#: views/contact-company-form.php:13
+msgid "Contact Company"
+msgstr ""
+
+#: elementor/widgets/contact-form.php:13
+msgid "Contact Form"
+msgstr ""
+
+#: elementor/widgets/contact-info.php:13
+msgid "Contact Info"
+msgstr ""
+
+#: views/user-modal.php:61 views/user-modal.php:177
+msgid "Continue"
+msgstr ""
+
+#: admin/sections/footer.php:17
+msgid "Copyright Text"
+msgstr ""
+
+#. Description of the plugin
+msgid "Core functionality for Jobster WP Theme."
+msgstr ""
+
+#: views/user-modal.php:69 views/user-modal.php:102
+msgid "Create an account"
+msgstr ""
+
+#: views/user-modal.php:74 views/user-modal.php:105
+msgid "Create candidate account"
+msgstr ""
+
+#: views/user-modal.php:79 views/user-modal.php:109
+msgid "Create company account"
+msgstr ""
+
+#: views/user-modal.php:159 views/user-modal.php:160
+msgid "Create password"
+msgstr ""
+
+#: elementor/widgets/features.php:200
+msgid "CTA"
+msgstr ""
+
+#: meta/page-meta-header-top-search.php:98
+msgid "CTA button label"
+msgstr ""
+
+#: meta/page-meta-header-top-search.php:104
+msgid "CTA button link"
+msgstr ""
+
+#: elementor/widgets/features.php:218 elementor/widgets/services.php:114
+#: elementor/widgets/promo.php:80
+msgid "CTA Label"
+msgstr ""
+
+#: elementor/widgets/features.php:208 elementor/widgets/promo.php:70
+msgid "CTA Link"
+msgstr ""
+
+#: post-types/testimonial.php:44
+msgid "Customer Location/Company/Title"
+msgstr ""
+
+#: elementor/widgets/promo.php:126
+msgid "Dark"
+msgstr ""
+
+#: page-templates/candidate-dashboard.php:73
+#: page-templates/company-dashboard.php:74 views/user-nav.php:69
+#: views/user-nav.php:124 views/user-nav.php:192 views/user-nav.php:247
+#: views/company-dashboard-side.php:97 views/company-dashboard-side.php:246
+#: views/candidate-dashboard-top.php:116 views/candidate-dashboard-top.php:333
+#: views/candidate-dashboard-side.php:90 views/candidate-dashboard-side.php:220
+#: views/company-dashboard-top.php:118 views/company-dashboard-top.php:361
+msgid "Dashboard"
+msgstr ""
+
+#: page-templates/candidate-dashboard-apps.php:199
+#: page-templates/company-dashboard-candidates.php:227
+#: page-templates/company-dashboard-jobs.php:188
+#: page-templates/candidate-dashboard-favs.php:166
+msgid "Date"
+msgstr ""
+
+#: blocks/membership-plans.php:124
+#: page-templates/company-dashboard-subscriptions.php:151
+#: elementor/widgets/membership-plans.php:179
+msgid "day"
+msgstr ""
+
+#: post-types/membership.php:86
+msgid "Days"
+msgstr ""
+
+#: blocks/membership-plans.php:126
+#: page-templates/company-dashboard-subscriptions.php:153
+#: elementor/widgets/membership-plans.php:181
+msgid "days"
+msgstr ""
+
+#: admin/sections/authentication.php:140 admin/sections/authentication.php:191
+msgid "Default (Current Page)"
+msgstr ""
+
+#: scripts.php:148 scripts.php:189 scripts.php:230
+#: page-templates/candidate-dashboard-profile.php:578
+#: page-templates/candidate-dashboard-profile.php:748
+#: page-templates/candidate-dashboard-profile.php:994
+#: page-templates/company-dashboard-notifications.php:134
+#: page-templates/company-dashboard-notifications.php:186
+#: page-templates/candidate-dashboard-notifications.php:123
+#: page-templates/candidate-dashboard-notifications.php:175
+#: page-templates/candidate-dashboard-apps.php:114
+#: page-templates/candidate-dashboard-apps.php:304
+#: page-templates/company-dashboard-candidates.php:151
+#: page-templates/company-dashboard-candidates.php:420
+#: page-templates/company-dashboard-jobs.php:112
+#: page-templates/candidate-dashboard-apply.php:188
+#: page-templates/candidate-dashboard-favs.php:86
+#: page-templates/candidate-dashboard-favs.php:266
+msgid "Delete"
+msgstr ""
+
+#: admin/sections/setup.php:33
+msgid "Demo 1"
+msgstr ""
+
+#: admin/sections/setup.php:75
+msgid "Demo 2"
+msgstr ""
+
+#: admin/sections/setup.php:117
+msgid "Demo 3"
+msgstr ""
+
+#: admin/sections/setup.php:159
+msgid "Demo 4"
+msgstr ""
+
+#: admin/sections/setup.php:201
+msgid "Demo 5"
+msgstr ""
+
+#: admin/sections/setup.php:243
+msgid "Demo 6"
+msgstr ""
+
+#: admin/sections/setup.php:285
+msgid "Demo 7"
+msgstr ""
+
+#: scripts.php:51 scripts.php:59
+#: page-templates/candidate-dashboard-profile.php:659
+#: page-templates/candidate-dashboard-profile.php:829
+#: post-types/candidate.php:322 post-types/candidate.php:413 nav/init.php:25
+msgid "Description"
+msgstr ""
+
+#: page-templates/company-dashboard-candidates.php:130
+msgid "Detailed list of candidates that applied for your job offers."
+msgstr ""
+
+#: page-templates/candidate-dashboard-favs.php:71
+msgid "Detailed list of your favourite jobs."
+msgstr ""
+
+#: page-templates/candidate-dashboard-apps.php:99
+msgid "Detailed list of your job applications."
+msgstr ""
+
+#: page-templates/company-dashboard-jobs.php:79
+msgid "Detailed list with all your job offers."
+msgstr ""
+
+#: post-types/invoice.php:45
+msgid "Details"
+msgstr ""
+
+#: admin/sections/authentication.php:38
+msgid "Disable Candidate Registration"
+msgstr ""
+
+#: admin/sections/authentication.php:45
+msgid "Disable Company Registration"
+msgstr ""
+
+#: admin/sections/membership.php:206 elementor/widgets/contact-info.php:107
+#: elementor/widgets/faqs.php:138 elementor/widgets/membership-plans.php:94
+#: elementor/widgets/features.php:276 elementor/widgets/subscribe.php:85
+#: elementor/widgets/latest-articles.php:93 elementor/widgets/services.php:178
+#: elementor/widgets/services.php:191 elementor/widgets/featured-jobs.php:228
+#: elementor/widgets/recent-jobs.php:228
+#: elementor/widgets/featured-candidates.php:204
+#: elementor/widgets/job-locations.php:182 elementor/widgets/promo.php:139
+#: elementor/widgets/testimonials.php:74
+#: elementor/widgets/job-categories.php:159
+#: elementor/widgets/featured-articles.php:93
+#: elementor/widgets/contact-form.php:85
+#: elementor/widgets/featured-companies.php:204
+msgid "Disabled"
+msgstr ""
+
+#: admin/sections/setup.php:55 admin/sections/setup.php:58
+#: admin/sections/setup.php:61 admin/sections/setup.php:64
+#: admin/sections/setup.php:67 admin/sections/setup.php:97
+#: admin/sections/setup.php:100 admin/sections/setup.php:103
+#: admin/sections/setup.php:106 admin/sections/setup.php:109
+#: admin/sections/setup.php:139 admin/sections/setup.php:142
+#: admin/sections/setup.php:145 admin/sections/setup.php:148
+#: admin/sections/setup.php:151 admin/sections/setup.php:181
+#: admin/sections/setup.php:184 admin/sections/setup.php:187
+#: admin/sections/setup.php:190 admin/sections/setup.php:193
+#: admin/sections/setup.php:223 admin/sections/setup.php:226
+#: admin/sections/setup.php:229 admin/sections/setup.php:232
+#: admin/sections/setup.php:235 admin/sections/setup.php:265
+#: admin/sections/setup.php:268 admin/sections/setup.php:271
+#: admin/sections/setup.php:274 admin/sections/setup.php:277
+#: admin/sections/setup.php:307 admin/sections/setup.php:310
+#: admin/sections/setup.php:313 admin/sections/setup.php:316
+#: admin/sections/setup.php:319
+msgid "Done"
+msgstr ""
+
+#: page-templates/candidate-dashboard-profile.php:986
+#: page-templates/candidate-dashboard-apply.php:180
+msgid "Download"
+msgstr ""
+
+#: admin/libs/import/wordpress-importer.php:275
+msgid "Download and import file attachments"
+msgstr ""
+
+#: page-templates/company-dashboard-candidates.php:373
+msgid "Download resume"
+msgstr ""
+
+#: page-templates/company-dashboard-edit-job.php:83
+#: page-templates/company-dashboard-jobs.php:325
+msgid "Draft"
+msgstr ""
+
+#: nav/init.php:148
+msgid "Dropdown"
+msgstr ""
+
+#: services/users.php:208
+#, php-format
+msgid "E-mail: %s"
+msgstr ""
+
+#: page-templates/company-dashboard-edit-job.php:572
+#: page-templates/company-dashboard-new-job.php:607
+msgid "E.g. $100k / year"
+msgstr ""
+
+#: page-templates/candidate-dashboard-profile.php:784
+msgid "E.g. Architecure"
+msgstr ""
+
+#: page-templates/company-dashboard-edit-job.php:550
+#: page-templates/company-dashboard-new-job.php:591 post-types/job.php:181
+msgid "E.g. Minimum 1 year"
+msgstr ""
+
+#: page-templates/candidate-dashboard-profile.php:614
+msgid "E.g. Web Designer"
+msgstr ""
+
+#: page-templates/candidate-dashboard-profile.php:570
+#: page-templates/candidate-dashboard-profile.php:740
+#: page-templates/company-dashboard-edit-job.php:106
+#: post-types/testimonial.php:18 post-types/candidate.php:18
+#: post-types/company.php:18 post-types/invoice.php:18
+#: post-types/membership.php:18 post-types/subscriber.php:18
+#: post-types/job.php:18
+msgid "Edit"
+msgstr ""
+
+#: post-types/candidate.php:19
+msgid "Edit Candidate"
+msgstr ""
+
+#: post-types/candidate.php:47
+msgid "Edit Candidate Industry"
+msgstr ""
+
+#: post-types/candidate.php:72
+msgid "Edit Candidate Location"
+msgstr ""
+
+#: post-types/candidate.php:97
+msgid "Edit Candidate Skill"
+msgstr ""
+
+#: post-types/company.php:19
+msgid "Edit Company"
+msgstr ""
+
+#: post-types/company.php:47
+msgid "Edit Company Industry"
+msgstr ""
+
+#: post-types/company.php:72
+msgid "Edit Company Location"
+msgstr ""
+
+#: scripts.php:55
+msgid "Edit Education"
+msgstr ""
+
+#: scripts.php:88
+msgid "Edit Info"
+msgstr ""
+
+#: post-types/invoice.php:19
+msgid "Edit Invoice"
+msgstr ""
+
+#: post-types/job.php:19
+msgid "Edit Job"
+msgstr ""
+
+#: post-types/job.php:72
+msgid "Edit Job Category"
+msgstr ""
+
+#: post-types/job.php:122
+msgid "Edit Job Level"
+msgstr ""
+
+#: post-types/job.php:47
+msgid "Edit Job Location"
+msgstr ""
+
+#: post-types/job.php:97
+msgid "Edit Job Type"
+msgstr ""
+
+#: scripts.php:81
+msgid "Edit Logo"
+msgstr ""
+
+#: post-types/membership.php:19
+msgid "Edit Membership Plan"
+msgstr ""
+
+#: scripts.php:94
+msgid "Edit Photo"
+msgstr ""
+
+#: page-templates/candidate-dashboard-profile.php:77
+#: page-templates/company-dashboard-profile.php:67
+#: views/company-dashboard-side.php:108 views/candidate-dashboard-top.php:124
+#: views/candidate-dashboard-side.php:101 views/company-dashboard-top.php:126
+msgid "Edit Profile"
+msgstr ""
+
+#: views/user-nav.php:79 views/user-nav.php:134 views/user-nav.php:202
+#: views/user-nav.php:257 views/company-dashboard-side.php:256
+#: views/candidate-dashboard-top.php:343 views/candidate-dashboard-side.php:230
+#: views/company-dashboard-top.php:371
+msgid "Edit profile"
+msgstr ""
+
+#: post-types/subscriber.php:19
+msgid "Edit Subscriber"
+msgstr ""
+
+#: post-types/testimonial.php:19
+msgid "Edit Testimonial"
+msgstr ""
+
+#: page-templates/company-dashboard-edit-job.php:114
+msgid "Edit the job offer details."
+msgstr ""
+
+#: scripts.php:47
+msgid "Edit Work Experience"
+msgstr ""
+
+#: page-templates/candidate-dashboard-profile.php:79
+msgid "Edit your candidate profile page info."
+msgstr ""
+
+#: page-templates/company-dashboard-profile.php:69
+msgid "Edit your company profile page info."
+msgstr ""
+
+#: page-templates/candidate-dashboard-profile.php:695
+msgid "Education & Training"
+msgstr ""
+
+#: post-types/candidate.php:137
+msgid "Education and Training"
+msgstr ""
+
+#: blocks/contact-form.php:103
+#: page-templates/candidate-dashboard-profile.php:120
+#: page-templates/company-dashboard-profile.php:105
+#: page-templates/candidate-dashboard-apply.php:103
+#: post-types/candidate.php:159 post-types/company.php:127
+#: views/contact-candidate-form.php:61 views/contact-company-form.php:57
+#: services/contact-block.php:41 services/contact-candidate.php:61
+#: services/contact-company.php:61 elementor/widgets/contact-info.php:81
+#: elementor/widgets/contact-form.php:59 elementor/widgets/contact-form.php:142
+msgid "Email"
+msgstr ""
+
+#: views/user-modal.php:47 views/user-modal.php:48 views/user-modal.php:154
+#: views/user-modal.php:155 views/user-modal.php:206 views/user-modal.php:207
+msgid "Email address"
+msgstr ""
+
+#: services/users.php:283
+msgid "Email already exists!"
+msgstr ""
+
+#: services/users.php:461
+msgid "Email failed to be sent for some unknown reason."
+msgstr ""
+
+#: elementor/widgets/contact-info.php:106 elementor/widgets/faqs.php:137
+#: elementor/widgets/membership-plans.php:93 elementor/widgets/features.php:275
+#: elementor/widgets/subscribe.php:84 elementor/widgets/latest-articles.php:92
+#: elementor/widgets/services.php:177 elementor/widgets/services.php:190
+#: elementor/widgets/featured-jobs.php:227
+#: elementor/widgets/recent-jobs.php:227
+#: elementor/widgets/featured-candidates.php:203
+#: elementor/widgets/job-locations.php:181 elementor/widgets/promo.php:138
+#: elementor/widgets/testimonials.php:73
+#: elementor/widgets/job-categories.php:158
+#: elementor/widgets/featured-articles.php:92
+#: elementor/widgets/contact-form.php:84
+#: elementor/widgets/featured-companies.php:203
+msgid "Enabled"
+msgstr ""
+
+#: elementor/widgets/promo.php:99
+msgid "End"
+msgstr ""
+
+#: elementor/widgets/faqs.php:106
+msgid "Enter answer"
+msgstr ""
+
+#: post-types/invoice.php:96
+msgid "Enter Company ID"
+msgstr ""
+
+#: views/contact-candidate-form.php:51
+msgid "Enter company name"
+msgstr ""
+
+#: post-types/testimonial.php:73
+msgid "Enter customer location"
+msgstr ""
+
+#: post-types/testimonial.php:106
+msgid "Enter customer name here"
+msgstr ""
+
+#: elementor/widgets/contact-info.php:85 elementor/widgets/contact-form.php:63
+msgid "Enter email"
+msgstr ""
+
+#: views/contact-candidate-form.php:67
+msgid "Enter email address"
+msgstr ""
+
+#: post-types/invoice.php:80
+msgid "Enter Item ID"
+msgstr ""
+
+#: post-types/invoice.php:90
+msgid "Enter Item Price"
+msgstr ""
+
+#: elementor/widgets/features.php:94 elementor/widgets/features.php:137
+#: elementor/widgets/features.php:180 elementor/widgets/features.php:222
+#: elementor/widgets/promo.php:84
+msgid "Enter label"
+msgstr ""
+
+#: elementor/widgets/features.php:210 elementor/widgets/promo.php:72
+msgid "Enter link"
+msgstr ""
+
+#: elementor/widgets/contact-info.php:63
+msgid "Enter location/city"
+msgstr ""
+
+#: post-types/membership.php:242
+msgid "Enter membership plan title here"
+msgstr ""
+
+#: page-templates/candidate-dashboard-password.php:77
+#: page-templates/company-dashboard-password.php:83
+msgid "Enter new password"
+msgstr ""
+
+#: post-types/subscriber.php:56
+msgid "Enter notes about subscriber"
+msgstr ""
+
+#: elementor/widgets/features.php:83 elementor/widgets/features.php:126
+#: elementor/widgets/features.php:169
+msgid "Enter number"
+msgstr ""
+
+#: elementor/widgets/featured-candidates.php:122
+msgid "Enter number of candidates"
+msgstr ""
+
+#: elementor/widgets/featured-companies.php:122
+msgid "Enter number of companies"
+msgstr ""
+
+#: elementor/widgets/featured-jobs.php:122
+#: elementor/widgets/recent-jobs.php:122
+msgid "Enter number of jobs"
+msgstr ""
+
+#: post-types/membership.php:77
+msgid "Enter number of..."
+msgstr ""
+
+#: page-templates/candidate-dashboard-password.php:56
+#: page-templates/company-dashboard-password.php:62
+msgid "Enter old password"
+msgstr ""
+
+#: elementor/widgets/contact-info.php:74
+msgid "Enter phone"
+msgstr ""
+
+#: elementor/widgets/faqs.php:95
+msgid "Enter question"
+msgstr ""
+
+#: elementor/widgets/services.php:118
+msgid "Enter service CTA label"
+msgstr ""
+
+#: elementor/widgets/services.php:106
+msgid "Enter service link"
+msgstr ""
+
+#: elementor/widgets/services.php:97
+msgid "Enter service text"
+msgstr ""
+
+#: elementor/widgets/services.php:86
+msgid "Enter service title"
+msgstr ""
+
+#: post-types/subscriber.php:86
+msgid "Enter subscriber email address here"
+msgstr ""
+
+#: elementor/widgets/contact-info.php:52 elementor/widgets/faqs.php:52
+#: elementor/widgets/membership-plans.php:52 elementor/widgets/subscribe.php:52
+#: elementor/widgets/latest-articles.php:51 elementor/widgets/services.php:52
+#: elementor/widgets/featured-jobs.php:89 elementor/widgets/recent-jobs.php:89
+#: elementor/widgets/featured-candidates.php:89
+#: elementor/widgets/job-locations.php:70 elementor/widgets/testimonials.php:52
+#: elementor/widgets/job-categories.php:51
+#: elementor/widgets/featured-articles.php:51
+#: elementor/widgets/contact-form.php:52
+#: elementor/widgets/featured-companies.php:89
+msgid "Enter subtitle"
+msgstr ""
+
+#: elementor/widgets/features.php:51 elementor/widgets/features.php:105
+#: elementor/widgets/features.php:148 elementor/widgets/features.php:191
+#: elementor/widgets/features.php:245 elementor/widgets/promo.php:52
+msgid "Enter text"
+msgstr ""
+
+#: post-types/membership.php:181
+msgid "Enter the label text"
+msgstr ""
+
+#: post-types/membership.php:125
+msgid "Enter the number of featured jobs"
+msgstr ""
+
+#: post-types/membership.php:105
+msgid "Enter the number of job postings"
+msgstr ""
+
+#: post-types/membership.php:150
+msgid "Enter the plan price"
+msgstr ""
+
+#: elementor/widgets/contact-info.php:41 elementor/widgets/faqs.php:41
+#: elementor/widgets/membership-plans.php:41 elementor/widgets/features.php:40
+#: elementor/widgets/subscribe.php:41 elementor/widgets/latest-articles.php:40
+#: elementor/widgets/services.php:41 elementor/widgets/featured-jobs.php:78
+#: elementor/widgets/recent-jobs.php:78
+#: elementor/widgets/featured-candidates.php:78
+#: elementor/widgets/job-locations.php:59 elementor/widgets/promo.php:41
+#: elementor/widgets/testimonials.php:41
+#: elementor/widgets/job-categories.php:40
+#: elementor/widgets/featured-articles.php:40
+#: elementor/widgets/contact-form.php:41
+#: elementor/widgets/featured-companies.php:78
+msgid "Enter title"
+msgstr ""
+
+#: post-types/testimonial.php:57
+msgid "Enter what the customer says here"
+msgstr ""
+
+#: blocks/contact-form.php:109 views/contact-company-form.php:63
+#: elementor/widgets/contact-form.php:148
+msgid "Enter your email address"
+msgstr ""
+
+#: blocks/subscribe.php:99 elementor/widgets/subscribe.php:139
+msgid "Enter your email..."
+msgstr ""
+
+#: blocks/contact-form.php:95 views/contact-company-form.php:47
+#: elementor/widgets/contact-form.php:134
+msgid "Enter your name"
+msgstr ""
+
+#: views/filter-jobs-form.php:205
+msgid "Experience Level"
+msgstr ""
+
+#: page-templates/company-dashboard-edit-job.php:512
+#: page-templates/company-dashboard-new-job.php:561
+#: views/filter-jobs-form.php:90
+msgid "Experience level"
+msgstr ""
+
+#: services/save-job.php:95 services/save-job.php:291
+msgid "Experience level field is mandatory."
+msgstr ""
+
+#: page-templates/company-dashboard-subscriptions.php:193
+msgid "Expired"
+msgstr ""
+
+#: page-templates/company-dashboard-subscriptions.php:308
+msgid "Expired on"
+msgstr ""
+
+#: page-templates/company-dashboard-subscriptions.php:310
+msgid "Expires on"
+msgstr ""
+
+#: page-templates/candidate-dashboard-profile.php:873
+#: page-templates/company-dashboard-profile.php:525
+#: post-types/candidate.php:461 post-types/company.php:178 views/social.php:31
+msgid "Facebook"
+msgstr ""
+
+#: admin/sections/footer.php:24
+msgid "Facebook Link"
+msgstr ""
+
+#: admin/libs/import/wordpress-importer.php:367
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: admin/libs/import/wordpress-importer.php:511
+#: admin/libs/import/wordpress-importer.php:733
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: admin/libs/import/wordpress-importer.php:699
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: admin/libs/import/wordpress-importer.php:600
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: admin/libs/import/wordpress-importer.php:233
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: admin/libs/import/wordpress-importer.php:419
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: admin/libs/import/wordpress-importer.php:462
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: elementor/widgets/faqs.php:13
+msgid "FAQs"
+msgstr ""
+
+#: page-templates/candidate-dashboard-favs.php:69
+#: views/candidate-dashboard-top.php:140 views/candidate-dashboard-side.php:123
+msgid "Favourite Jobs"
+msgstr ""
+
+#: elementor/widgets/features.php:241
+msgid "Feature Text"
+msgstr ""
+
+#: meta/post-meta.php:14 page-templates/company-dashboard-jobs.php:257
+#: post-types/candidate.php:135 post-types/company.php:111
+#: post-types/job.php:166
+msgid "Featured"
+msgstr ""
+
+#: elementor/widgets/featured-articles.php:13
+msgid "Featured Articles"
+msgstr ""
+
+#: elementor/widgets/featured-candidates.php:13
+msgid "Featured Candidates"
+msgstr ""
+
+#: elementor/widgets/featured-companies.php:13
+msgid "Featured Companies"
+msgstr ""
+
+#: page-templates/company-dashboard-new-job.php:113 post-types/invoice.php:135
+msgid "Featured Job"
+msgstr ""
+
+#: services/stripe.php:42
+msgid "Featured job posting payment on "
+msgstr ""
+
+#: admin/sections/membership.php:44
+msgid "Featured Job Posting Price"
+msgstr ""
+
+#: page-templates/company-dashboard-subscriptions.php:225
+msgid "Featured job postings"
+msgstr ""
+
+#: blocks/membership-plans.php:206
+#: page-templates/company-dashboard-subscriptions.php:244
+#: elementor/widgets/membership-plans.php:235
+msgid "featured job postings"
+msgstr ""
+
+#: elementor/widgets/featured-jobs.php:13
+msgid "Featured Jobs"
+msgstr ""
+
+#: elementor/widgets/features.php:13 elementor/widgets/features.php:231
+msgid "Features"
+msgstr ""
+
+#: elementor/widgets/features.php:252
+msgid "Features List"
+msgstr ""
+
+#: admin/libs/import/wordpress-importer.php:934
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: page-templates/candidate-dashboard-apply.php:64
+msgid "Fill in your info to submit your application."
+msgstr ""
+
+#: meta/page-meta.php:471
+msgid "Filter form position"
+msgstr ""
+
+#: views/filter-jobs-form.php:117
+msgid "Filter Jobs"
+msgstr ""
+
+#: views/search-candidates-form.php:141 views/search-candidates-form.php:273
+msgid "Find Candidates"
+msgstr ""
+
+#: views/search-companies-form.php:141 views/search-companies-form.php:273
+msgid "Find Companies"
+msgstr ""
+
+#: views/search-jobs-form.php:158 views/search-jobs-form.php:301
+#: views/search-jobs-form-hero.php:135 views/search-jobs-form-hero.php:208
+msgid "Find Jobs"
+msgstr ""
+
+#: views/user-modal.php:133 views/user-modal.php:134
+msgid "First name"
+msgstr ""
+
+#: nav/init.php:55
+msgid "Font Awesome"
+msgstr ""
+
+#: admin/settings.php:246 admin/sections/footer.php:11
+msgid "Footer"
+msgstr ""
+
+#: views/user-modal.php:199 views/user-modal.php:201
+msgid "Forgot Password"
+msgstr ""
+
+#: views/user-modal.php:65
+msgid "Forgot password"
+msgstr ""
+
+#: page-templates/company-dashboard-profile.php:485 post-types/company.php:155
+msgid "Founded in"
+msgstr ""
+
+#: blocks/membership-plans.php:172
+#: page-templates/company-dashboard-edit-job.php:58
+#: page-templates/company-dashboard-edit-job.php:61
+#: page-templates/company-dashboard-new-job.php:41
+#: page-templates/company-dashboard-new-job.php:44
+#: page-templates/company-dashboard-new-job.php:100
+#: page-templates/company-dashboard-jobs.php:67
+#: page-templates/company-dashboard-jobs.php:70
+#: page-templates/company-dashboard-subscriptions.php:205
+#: elementor/widgets/membership-plans.php:223
+msgid "Free"
+msgstr ""
+
+#: page-templates/company-dashboard-jobs.php:396
+#: page-templates/company-dashboard-jobs.php:485
+msgid "free left"
+msgstr ""
+
+#: post-types/membership.php:161
+msgid "Free Plan"
+msgstr ""
+
+#: page-templates/company-dashboard-new-job.php:73
+msgid "free posts included"
+msgstr ""
+
+#: page-templates/company-dashboard-new-job.php:89
+#: page-templates/company-dashboard-new-job.php:127
+msgid "Free posts left"
+msgstr ""
+
+#: meta/page-meta-header-image-bg.php:59
+msgid "Full"
+msgstr ""
+
+#: page-templates/init.php:32
+msgid "Full Width"
+msgstr ""
+
+#: page-templates/candidate-dashboard-apps.php:286
+#: page-templates/company-dashboard-candidates.php:349
+#: page-templates/company-dashboard-jobs.php:309
+#: page-templates/candidate-dashboard-favs.php:248
+msgid "g:i a"
+msgstr ""
+
+#: views/user-modal.php:213 views/user-modal.php:247
+msgid "Get new password"
+msgstr ""
+
+#: page-templates/company-dashboard-new-job.php:684
+msgid "Go to your subscriptions"
+msgstr ""
+
+#: elementor/widgets/job-categories.php:95
+msgid "Grid"
+msgstr ""
+
+#: meta/page-meta-header-image-bg.php:60
+msgid "Half"
+msgstr ""
+
+#: admin/sections/setup.php:70 admin/sections/setup.php:112
+#: admin/sections/setup.php:154 admin/sections/setup.php:196
+#: admin/sections/setup.php:238 admin/sections/setup.php:280
+#: admin/sections/setup.php:322 admin/libs/import/wordpress-importer.php:171
+msgid "Have fun!"
+msgstr ""
+
+#: meta/page-meta.php:19
+msgid "Header"
+msgstr ""
+
+#: meta/page-meta.php:403 meta/page-meta.php:614 meta/page-meta.php:756
+msgid "Header align"
+msgstr ""
+
+#: meta/page-meta.php:100
+msgid "Header Type"
+msgstr ""
+
+#: meta/page-meta-header-image-bg.php:55
+msgid "Height"
+msgstr ""
+
+#: meta/page-meta.php:171
+msgid "Hide page title"
+msgstr ""
+
+#: views/user-modal.php:242
+msgid ""
+"Hint: The password should be at least seven characters long. To make it "
+"stronger, use upper and lower case letters, numbers, and symbols like ! \" ? "
+"$ % ^ & )."
+msgstr ""
+
+#: page-templates/company-dashboard-notifications.php:72
+#: page-templates/candidate-dashboard-notifications.php:72
+msgid "History of all your received notifications."
+msgstr ""
+
+#: views/candidate-dashboard-top.php:419 views/candidate-dashboard-side.php:279
+msgid "Home"
+msgstr ""
+
+#: elementor/widgets/job-categories.php:119
+msgid "Horizontal"
+msgstr ""
+
+#: admin/libs/import/wordpress-importer.php:1136
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://pixelprime.co"
+msgstr ""
+
+#: views/user-modal.php:169
+#, php-format
+msgid ""
+"I agree with <a href=\"%s\" class=\"pxp-modal-link\" target=\"_blank\">Terms "
+"and Conditions</a>"
+msgstr ""
+
+#: views/user-modal.php:121
+msgid "I am candidate"
+msgstr ""
+
+#: views/user-modal.php:124
+msgid "I am company"
+msgstr ""
+
+#: admin/sections/setup.php:42
+msgid "I have imported Demo 1 content"
+msgstr ""
+
+#: admin/sections/setup.php:84
+msgid "I have imported Demo 2 content"
+msgstr ""
+
+#: admin/sections/setup.php:126
+msgid "I have imported Demo 3 content"
+msgstr ""
+
+#: admin/sections/setup.php:168
+msgid "I have imported Demo 4 content"
+msgstr ""
+
+#: admin/sections/setup.php:210
+msgid "I have imported Demo 5 content"
+msgstr ""
+
+#: admin/sections/setup.php:252
+msgid "I have imported Demo 6 content"
+msgstr ""
+
+#: admin/sections/setup.php:294
+msgid "I have imported Demo 7 content"
+msgstr ""
+
+#: scripts.php:97 meta/page-meta-header-boxed.php:109
+#: meta/page-meta-header-boxed.php:176 post-types/job.php:326
+#: post-types/job.php:357 nav/init.php:93
+msgid "Icon"
+msgstr ""
+
+#: elementor/widgets/job-categories.php:134
+msgid "Icon Background"
+msgstr ""
+
+#: nav/init.php:112
+msgid "Icon Image"
+msgstr ""
+
+#: nav/init.php:38
+msgid "Icon Type"
+msgstr ""
+
+#: scripts.php:64
+msgid "Icons"
+msgstr ""
+
+#: admin/libs/import/wordpress-importer.php:262
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: admin/sections/setup.php:27
+msgid ""
+"If you choose to import a demo content, you can run this setup to make your "
+"website look like the theme demo."
+msgstr ""
+
+#: scripts.php:95 meta/page-meta-header-boxed.php:89
+#: meta/page-meta-header-boxed.php:156 meta/page-meta.php:88
+#: meta/page-meta-header-illustration.php:146
+msgid "Illustration"
+msgstr ""
+
+#: meta/page-meta-header-illustration.php:12
+msgid "Illustration Settings"
+msgstr ""
+
+#: scripts.php:82 meta/page-meta-header-image-rotator.php:123
+#: meta/page-meta-header-image-rotator.php:208
+#: meta/page-meta-header-animated-cards.php:123
+#: meta/page-meta-header-image-card.php:123
+#: meta/page-meta-header-illustration.php:123 nav/init.php:61
+#: elementor/widgets/features.php:58 elementor/widgets/subscribe.php:59
+#: elementor/widgets/job-locations.php:109
+msgid "Image"
+msgstr ""
+
+#: scripts.php:99 meta/page-meta.php:90
+msgid "Image Background"
+msgstr ""
+
+#: meta/page-meta-header-top-search.php:12
+#: meta/page-meta-header-image-bg.php:12
+msgid "Image Background Settings"
+msgstr ""
+
+#: meta/page-meta.php:92
+msgid "Image Card"
+msgstr ""
+
+#: meta/page-meta-header-image-card.php:12
+msgid "Image Card Settings"
+msgstr ""
+
+#: meta/page-meta.php:87
+msgid "Image Rotator"
+msgstr ""
+
+#: meta/page-meta-header-image-rotator.php:12
+msgid "Image Rotator Settings"
+msgstr ""
+
+#: admin/libs/import/wordpress-importer.php:272
+msgid "Import Attachments"
+msgstr ""
+
+#: admin/libs/import/wordpress-importer.php:292
+msgid "Import author:"
+msgstr ""
+
+#: admin/libs/import/wordpress-importer.php:1114
+msgid "Import WordPress"
+msgstr ""
+
+#: page-templates/company-dashboard-inbox.php:51
+#: page-templates/candidate-dashboard-inbox.php:51
+#: views/company-dashboard-side.php:183 views/candidate-dashboard-top.php:163
+#: views/candidate-dashboard-side.php:154 views/company-dashboard-top.php:181
+msgid "Inbox"
+msgstr ""
+
+#: page-templates/candidate-dashboard-profile.php:429
+#: page-templates/company-dashboard-profile.php:416
+#: views/search-candidates-form.php:247 views/search-companies-form.php:247
+#: elementor/widgets/featured-candidates.php:106
+#: elementor/widgets/featured-companies.php:106
+msgid "Industry"
+msgstr ""
+
+#: services/update-company-profile.php:88
+#: services/update-candidate-profile.php:82
+msgid "Industry field is mandatory."
+msgstr ""
+
+#: elementor/widgets/features.php:71
+msgid "Info Card 1"
+msgstr ""
+
+#: elementor/widgets/features.php:114
+msgid "Info Card 2"
+msgstr ""
+
+#: elementor/widgets/features.php:157
+msgid "Info Card 3"
+msgstr ""
+
+#: meta/page-meta-header-image-rotator.php:246
+#: meta/page-meta-header-boxed.php:190
+#: meta/page-meta-header-animated-cards.php:174
+msgid "Info Cards"
+msgstr ""
+
+#: scripts.php:42 scripts.php:46 scripts.php:63
+msgid "Insert Cover"
+msgstr ""
+
+#: scripts.php:25 scripts.php:98
+msgid "Insert Icon"
+msgstr ""
+
+#: scripts.php:96
+msgid "Insert Illustration"
+msgstr ""
+
+#: scripts.php:100
+msgid "Insert Image"
+msgstr ""
+
+#: scripts.php:40 scripts.php:80
+msgid "Insert Logo"
+msgstr ""
+
+#: scripts.php:44 scripts.php:87 scripts.php:93 scripts.php:102
+msgid "Insert Photo"
+msgstr ""
+
+#: scripts.php:61
+msgid "Insert Resume"
+msgstr ""
+
+#: views/company-dashboard-side.php:169 views/candidate-dashboard-top.php:153
+#: views/candidate-dashboard-side.php:140 views/company-dashboard-top.php:171
+msgid "Insights"
+msgstr ""
+
+#: page-templates/candidate-dashboard-profile.php:907
+#: page-templates/company-dashboard-profile.php:559
+#: post-types/candidate.php:475 post-types/company.php:192
+msgid "Instagram"
+msgstr ""
+
+#: admin/sections/footer.php:38
+msgid "Instagram Link"
+msgstr ""
+
+#: scripts.php:57 page-templates/candidate-dashboard-profile.php:794
+#: post-types/candidate.php:399
+msgid "Institution"
+msgstr ""
+
+#: page-templates/candidate-dashboard-profile.php:801
+msgid "Institution name"
+msgstr ""
+
+#: services/users.php:417 services/users.php:427
+msgid "Invalid email address!"
+msgstr ""
+
+#: services/apps.php:115 services/update-company-profile.php:78
+#: services/update-candidate-profile.php:72
+msgid "Invalid email address."
+msgstr ""
+
+#: services/users.php:279
+msgid "Invalid Email!"
+msgstr ""
+
+#: admin/libs/import/wordpress-importer.php:947
+msgid "Invalid file type"
+msgstr ""
+
+#: services/users.php:151 services/users.php:162
+msgid "Invalid username or password!"
+msgstr ""
+
+#: services/users.php:434
+msgid "Invalid username!"
+msgstr ""
+
+#: post-types/invoice.php:15
+msgid "Invoice"
+msgstr ""
+
+#: post-types/invoice.php:63
+msgid "Invoice ID"
+msgstr ""
+
+#: post-types/invoice.php:14
+msgid "Invoices"
+msgstr ""
+
+#: post-types/invoice.php:79
+msgid "Item ID"
+msgstr ""
+
+#: post-types/invoice.php:89
+msgid "Item Price"
+msgstr ""
+
+#: post-types/invoice.php:72 post-types/invoice.php:207
+msgid "Item Type"
+msgstr ""
+
+#: page-templates/candidate-dashboard-apps.php:187
+#: page-templates/candidate-dashboard-favs.php:154 post-types/job.php:15
+msgid "Job"
+msgstr ""
+
+#: views/candidate-dashboard-top.php:425 views/candidate-dashboard-side.php:285
+msgid "Job Application"
+msgstr ""
+
+#: page-templates/candidate-dashboard.php:92
+msgid "Job applications"
+msgstr ""
+
+#: page-templates/candidate-dashboard-apps.php:148
+msgid "job applications"
+msgstr ""
+
+#: post-types/job.php:164
+msgid "Job Apply Action"
+msgstr ""
+
+#: post-types/job.php:67 post-types/job.php:80
+#: elementor/widgets/job-categories.php:13
+msgid "Job Categories"
+msgstr ""
+
+#: post-types/job.php:68
+msgid "Job Category"
+msgstr ""
+
+#: scripts.php:62 post-types/job.php:165
+msgid "Job Cover"
+msgstr ""
+
+#: page-templates/company-dashboard-edit-job.php:286
+#: page-templates/company-dashboard-new-job.php:351
+msgid "Job description"
+msgstr ""
+
+#: post-types/job.php:163
+msgid "Job Details"
+msgstr ""
+
+#: post-types/job.php:118
+msgid "Job Level"
+msgstr ""
+
+#: post-types/job.php:117 post-types/job.php:130
+msgid "Job Levels"
+msgstr ""
+
+#: post-types/job.php:43
+msgid "Job Location"
+msgstr ""
+
+#: post-types/job.php:42 post-types/job.php:55
+#: elementor/widgets/job-locations.php:13
+msgid "Job Locations"
+msgstr ""
+
+#: services/apps.php:194
+msgid "Job offer is missing."
+msgstr ""
+
+#: admin/sections/jobs.php:24
+msgid "Job Page Layout"
+msgstr ""
+
+#: services/paypal.php:178
+msgid "Job Posting Payment"
+msgstr ""
+
+#: services/stripe.php:35
+msgid "Job posting payment on "
+msgstr ""
+
+#: services/paypal.php:186
+msgid "Job Posting Payment with Featured option"
+msgstr ""
+
+#: admin/sections/membership.php:34
+msgid "Job Posting Price"
+msgstr ""
+
+#: page-templates/company-dashboard-subscriptions.php:214
+#: page-templates/company-dashboard-subscriptions.php:217
+msgid "Job postings"
+msgstr ""
+
+#: blocks/membership-plans.php:197
+#: page-templates/company-dashboard-subscriptions.php:242
+#: elementor/widgets/membership-plans.php:233
+msgid "job postings"
+msgstr ""
+
+#: page-templates/init.php:33
+msgid "Job Search"
+msgstr ""
+
+#: scripts.php:48 page-templates/candidate-dashboard-profile.php:607
+#: page-templates/company-dashboard-edit-job.php:136
+#: page-templates/company-dashboard-new-job.php:233
+#: post-types/candidate.php:302
+msgid "Job title"
+msgstr ""
+
+#: services/save-job.php:55 services/save-job.php:251
+msgid "Job title field is mandatory."
+msgstr ""
+
+#: views/search-jobs-form.php:73 views/search-jobs-form.php:213
+#: views/search-jobs-form-hero.php:55 views/search-jobs-form-hero.php:104
+#: views/search-jobs-form-hero.php:105 views/search-jobs-form-hero.php:160
+#: views/search-jobs-form-hero.php:230
+msgid "Job Title or Keyword"
+msgstr ""
+
+#: services/apps.php:242
+#, php-format
+msgid "Job title: %s"
+msgstr ""
+
+#: post-types/job.php:93
+msgid "Job Type"
+msgstr ""
+
+#: post-types/job.php:92 post-types/job.php:105
+msgid "Job Types"
+msgstr ""
+
+#: post-types/invoice.php:134
+msgid "Job Upgraded to Featured"
+msgstr ""
+
+#: services/paypal.php:362
+#, php-format
+msgid "Job: %s"
+msgstr ""
+
+#: admin/settings.php:196 post-types/job.php:14 admin/sections/jobs.php:11
+msgid "Jobs"
+msgstr ""
+
+#: blocks/featured-companies.php:201 page-templates/company-search.php:154
+#: page-templates/company-dashboard-jobs.php:141
+#: page-templates/job-search.php:96
+#: page-templates/candidate-dashboard-favs.php:115
+#: elementor/widgets/featured-companies.php:362
+msgid "jobs"
+msgstr ""
+
+#: meta/page-meta.php:35
+msgid "Jobs Page Settings"
+msgstr ""
+
+#: admin/sections/jobs.php:17
+msgid "Jobs per Page"
+msgstr ""
+
+#: page-templates/company-dashboard.php:93
+msgid "Jobs posted"
+msgstr ""
+
+#: services/save-job.php:469
+msgid "Jobs were not deleted."
+msgstr ""
+
+#: services/save-job.php:428
+msgid "Jobs were not published."
+msgstr ""
+
+#: services/save-job.php:461
+msgid "Jobs were successfully deleted. Redirecting..."
+msgstr ""
+
+#: services/save-job.php:420
+msgid "Jobs were successfully published. Redirecting..."
+msgstr ""
+
+#: elementor/init.php:84
+msgid "Jobster"
+msgstr ""
+
+#. Name of the plugin
+msgid "Jobster Plugin"
+msgstr ""
+
+#: page-templates/company-dashboard-inbox.php:53
+msgid "Keep in touch with your candidates."
+msgstr ""
+
+#: page-templates/candidate-dashboard-inbox.php:53
+msgid "Keep in touch with your companies."
+msgstr ""
+
+#: scripts.php:90 meta/page-meta-header-image-rotator.php:314
+#: meta/page-meta-header-boxed.php:258
+#: meta/page-meta-header-animated-cards.php:242
+msgid "Label"
+msgstr ""
+
+#: page-templates/candidate-dashboard.php:181
+#: page-templates/candidate-dashboard.php:219
+#: page-templates/company-dashboard.php:182
+#: page-templates/company-dashboard.php:220
+msgid "Last 12 months"
+msgstr ""
+
+#: page-templates/candidate-dashboard.php:172
+#: page-templates/candidate-dashboard.php:210
+#: page-templates/company-dashboard.php:173
+#: page-templates/company-dashboard.php:211
+msgid "Last 30 days"
+msgstr ""
+
+#: page-templates/candidate-dashboard.php:175
+#: page-templates/candidate-dashboard.php:213
+#: page-templates/company-dashboard.php:176
+#: page-templates/company-dashboard.php:214
+msgid "Last 60 days"
+msgstr ""
+
+#: page-templates/candidate-dashboard.php:169
+#: page-templates/candidate-dashboard.php:207
+#: page-templates/company-dashboard.php:170
+#: page-templates/company-dashboard.php:208
+msgid "Last 7 days"
+msgstr ""
+
+#: page-templates/candidate-dashboard.php:178
+#: page-templates/candidate-dashboard.php:216
+#: page-templates/company-dashboard.php:179
+#: page-templates/company-dashboard.php:217
+msgid "Last 90 days"
+msgstr ""
+
+#: views/user-modal.php:139 views/user-modal.php:140
+msgid "Last name"
+msgstr ""
+
+#: elementor/widgets/latest-articles.php:13
+msgid "Latest Articles"
+msgstr ""
+
+#: elementor/widgets/contact-info.php:94 elementor/widgets/faqs.php:125
+#: elementor/widgets/membership-plans.php:81 elementor/widgets/features.php:263
+#: elementor/widgets/subscribe.php:72 elementor/widgets/latest-articles.php:80
+#: elementor/widgets/services.php:137 elementor/widgets/featured-jobs.php:151
+#: elementor/widgets/recent-jobs.php:151
+#: elementor/widgets/featured-candidates.php:151
+#: elementor/widgets/job-locations.php:141 elementor/widgets/promo.php:113
+#: elementor/widgets/testimonials.php:61
+#: elementor/widgets/job-categories.php:83
+#: elementor/widgets/job-categories.php:91
+#: elementor/widgets/featured-articles.php:80
+#: elementor/widgets/contact-form.php:72
+#: elementor/widgets/featured-companies.php:151
+msgid "Layout"
+msgstr ""
+
+#: meta/page-meta.php:210 meta/page-meta.php:418 meta/page-meta.php:520
+#: meta/page-meta.php:631 meta/page-meta.php:707 meta/page-meta.php:773
+#: meta/page-meta.php:849
+msgid "Left"
+msgstr ""
+
+#: elementor/widgets/promo.php:125
+msgid "Light"
+msgstr ""
+
+#: scripts.php:83
+msgid "Link"
+msgstr ""
+
+#: views/social.php:63
+msgid "LinkedIn"
+msgstr ""
+
+#: page-templates/candidate-dashboard-profile.php:924
+#: page-templates/company-dashboard-profile.php:576
+#: post-types/candidate.php:481 post-types/company.php:198
+msgid "Linkedin"
+msgstr ""
+
+#: admin/sections/footer.php:45
+msgid "Linkedin Link"
+msgstr ""
+
+#: meta/page-meta.php:578 admin/sections/blog.php:122
+#: elementor/widgets/featured-jobs.php:171
+#: elementor/widgets/recent-jobs.php:171
+msgid "List"
+msgstr ""
+
+#: services/paypal.php:119
+msgid "Listing payment on "
+msgstr ""
+
+#: admin/sections/membership.php:492
+msgid "Live"
+msgstr ""
+
+#: page-templates/candidate-dashboard-profile.php:470
+#: page-templates/company-dashboard-edit-job.php:220
+#: page-templates/company-dashboard-new-job.php:301
+#: page-templates/company-dashboard-profile.php:457
+#: views/search-candidates-form.php:206 views/search-jobs-form.php:234
+#: views/search-companies-form.php:206 elementor/widgets/contact-info.php:59
+#: elementor/widgets/featured-jobs.php:96 elementor/widgets/recent-jobs.php:96
+#: elementor/widgets/featured-candidates.php:96
+#: elementor/widgets/job-locations.php:120
+#: elementor/widgets/featured-companies.php:96
+msgid "Location"
+msgstr ""
+
+#: services/save-job.php:75 services/save-job.php:271
+#: services/update-company-profile.php:98
+#: services/update-candidate-profile.php:92
+msgid "Location field is mandatory."
+msgstr ""
+
+#: post-types/testimonial.php:72
+msgid "Location/Title/Company"
+msgstr ""
+
+#: elementor/widgets/job-locations.php:99
+msgid "Locations"
+msgstr ""
+
+#: elementor/widgets/job-locations.php:130
+msgid "Locations List"
+msgstr ""
+
+#: scripts.php:79
+msgid "Logo Image"
+msgstr ""
+
+#: meta/page-meta-header-image-rotator.php:61
+#: meta/page-meta-header-animated-cards.php:61
+#: meta/page-meta-header-image-card.php:61
+#: meta/page-meta-header-illustration.php:61
+msgid "Logos List"
+msgstr ""
+
+#: views/user-nav.php:88 views/user-nav.php:143 views/user-nav.php:211
+#: views/user-nav.php:266 views/user-nav.php:294 views/user-nav.php:322
+#: views/company-dashboard-side.php:265 views/candidate-dashboard-top.php:352
+#: views/candidate-dashboard-side.php:239 views/company-dashboard-top.php:380
+msgid "Logout"
+msgstr ""
+
+#: page-templates/company-dashboard-jobs.php:77
+#: views/company-dashboard-side.php:130 views/company-dashboard-top.php:142
+msgid "Manage Jobs"
+msgstr ""
+
+#: post-types/company.php:316
+msgid "Manually Assign a Membership Plan"
+msgstr ""
+
+#: elementor/widgets/featured-jobs.php:211
+#: elementor/widgets/recent-jobs.php:211
+#: elementor/widgets/featured-candidates.php:187
+#: elementor/widgets/featured-companies.php:187
+msgid "Margin"
+msgstr ""
+
+#: admin/settings.php:266 post-types/company.php:113
+#: admin/sections/membership.php:11
+msgid "Membership & Payment"
+msgstr ""
+
+#: services/paypal.php:281
+msgid "Membership Payment"
+msgstr ""
+
+#: post-types/invoice.php:136 post-types/membership.php:15
+msgid "Membership Plan"
+msgstr ""
+
+#: admin/sections/membership.php:208
+msgid "Membership plan"
+msgstr ""
+
+#: post-types/membership.php:48
+msgid "Membership Plan Features"
+msgstr ""
+
+#: services/paypal.php:278
+msgid "Membership Plan Payment"
+msgstr ""
+
+#: services/stripe.php:102 services/paypal.php:273
+msgid "membership plan payment on"
+msgstr ""
+
+#: post-types/membership.php:76
+msgid "Membership Plan Period"
+msgstr ""
+
+#: post-types/membership.php:14 elementor/widgets/membership-plans.php:13
+msgid "Membership Plans"
+msgstr ""
+
+#: page-templates/company-dashboard-subscriptions.php:79
+msgid "Membership subscription plans."
+msgstr ""
+
+#: services/paypal.php:416
+#, php-format
+msgid "Membership Type: %s"
+msgstr ""
+
+#: scripts.php:24
+msgid "Menu Icon"
+msgstr ""
+
+#: admin/libs/import/wordpress-importer.php:871
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: admin/libs/import/wordpress-importer.php:864
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: blocks/contact-form.php:117 views/contact-candidate-form.php:77
+#: views/contact-company-form.php:73 elementor/widgets/contact-form.php:156
+msgid "Message"
+msgstr ""
+
+#: page-templates/candidate-dashboard-apply.php:135
+msgid "Message (optional)"
+msgstr ""
+
+#: blocks/membership-plans.php:136
+#: page-templates/company-dashboard-subscriptions.php:165
+#: elementor/widgets/membership-plans.php:191
+msgid "month"
+msgstr ""
+
+#: post-types/membership.php:92
+msgid "Months"
+msgstr ""
+
+#: blocks/membership-plans.php:138
+#: page-templates/company-dashboard-subscriptions.php:167
+#: elementor/widgets/membership-plans.php:193
+msgid "months"
+msgstr ""
+
+#: page-templates/company-dashboard-candidates.php:332
+#: page-templates/company-dashboard-candidates.php:337
+msgid "N/A"
+msgstr ""
+
+#: blocks/contact-form.php:89
+#: page-templates/candidate-dashboard-profile.php:101
+#: page-templates/company-dashboard-candidates.php:218
+#: page-templates/candidate-dashboard-apply.php:86
+#: views/contact-company-form.php:41 elementor/widgets/contact-form.php:128
+msgid "Name"
+msgstr ""
+
+#: page-templates/company-search.php:89 page-templates/candidate-search.php:118
+msgid "Name Asc"
+msgstr ""
+
+#: page-templates/company-search.php:95 page-templates/candidate-search.php:124
+msgid "Name Desc"
+msgstr ""
+
+#: services/apps.php:105 services/apps.php:125
+#: services/update-company-profile.php:68
+#: services/update-candidate-profile.php:62
+msgid "Name field is mandatory."
+msgstr ""
+
+#: post-types/candidate.php:20
+msgid "New Candidate"
+msgstr ""
+
+#: post-types/candidate.php:50
+msgid "New Candidate Industry Name"
+msgstr ""
+
+#: post-types/candidate.php:75
+msgid "New Candidate Location Name"
+msgstr ""
+
+#: post-types/candidate.php:100
+msgid "New Candidate Skill Name"
+msgstr ""
+
+#: post-types/company.php:20
+msgid "New Company"
+msgstr ""
+
+#: post-types/company.php:50
+msgid "New Company Industry Name"
+msgstr ""
+
+#: post-types/company.php:75
+msgid "New Company Location Name"
+msgstr ""
+
+#: post-types/candidate.php:388
+msgid "New Education"
+msgstr ""
+
+#: meta/page-meta-header-image-rotator.php:303
+#: meta/page-meta-header-boxed.php:247
+#: meta/page-meta-header-animated-cards.php:231
+msgid "New Info"
+msgstr ""
+
+#: post-types/invoice.php:20
+msgid "New Invoice"
+msgstr ""
+
+#: post-types/job.php:20
+msgid "New Job"
+msgstr ""
+
+#: post-types/job.php:75
+msgid "New Job Category Name"
+msgstr ""
+
+#: post-types/job.php:125
+msgid "New Job Level Name"
+msgstr ""
+
+#: post-types/job.php:50
+msgid "New Job Location Name"
+msgstr ""
+
+#: page-templates/company-dashboard-new-job.php:57
+#: views/company-dashboard-side.php:119 views/company-dashboard-top.php:134
+msgid "New Job Offer"
+msgstr ""
+
+#: post-types/job.php:100
+msgid "New Job Type Name"
+msgstr ""
+
+#: meta/page-meta-header-image-rotator.php:118
+#: meta/page-meta-header-animated-cards.php:118
+#: meta/page-meta-header-image-card.php:118
+#: meta/page-meta-header-illustration.php:118
+msgid "New Logo"
+msgstr ""
+
+#: post-types/membership.php:20
+msgid "New Membership Plan"
+msgstr ""
+
+#: page-templates/candidate-dashboard-password.php:70
+#: page-templates/company-dashboard-password.php:76 views/user-modal.php:237
+#: views/user-modal.php:238
+msgid "New password"
+msgstr ""
+
+#: services/users.php:543
+msgid "New password field is mandatory."
+msgstr ""
+
+#: page-templates/candidate-dashboard-password.php:88
+#: page-templates/company-dashboard-password.php:94
+msgid "New password repeat"
+msgstr ""
+
+#: services/users.php:554
+msgid "New password repeat field is mandatory."
+msgstr ""
+
+#: meta/page-meta-header-image-rotator.php:203
+msgid "New Photo"
+msgstr ""
+
+#: post-types/subscriber.php:20
+msgid "New Subscriber"
+msgstr ""
+
+#: post-types/testimonial.php:20
+msgid "New Testimonial"
+msgstr ""
+
+#: views/user-modal.php:69 views/user-modal.php:74 views/user-modal.php:79
+msgid "New to"
+msgstr ""
+
+#: services/users.php:206
+#, php-format
+msgid "New user Sign Up on %s:"
+msgstr ""
+
+#: post-types/candidate.php:297
+msgid "New Work Experience"
+msgstr ""
+
+#: page-templates/job-search.php:105
+msgid "Newest"
+msgstr ""
+
+#: page-templates/company-dashboard-subscriptions.php:235
+#: elementor/widgets/featured-jobs.php:214
+#: elementor/widgets/recent-jobs.php:214
+#: elementor/widgets/featured-candidates.php:190
+#: elementor/widgets/featured-companies.php:190
+msgid "No"
+msgstr ""
+
+#: views/company-jobs.php:146
+msgid "No available jobs."
+msgstr ""
+
+#: post-types/candidate.php:54
+msgid "No candidate industry found."
+msgstr ""
+
+#: post-types/candidate.php:79
+msgid "No candidate location found."
+msgstr ""
+
+#: post-types/candidate.php:104
+msgid "No candidate skill found."
+msgstr ""
+
+#: post-types/candidate.php:24
+msgid "No Candidates found"
+msgstr ""
+
+#: post-types/candidate.php:25
+msgid "No Candidates found in Trash"
+msgstr ""
+
+#: post-types/company.php:24
+msgid "No Companies found"
+msgstr ""
+
+#: post-types/company.php:25
+msgid "No Companies found in Trash"
+msgstr ""
+
+#: post-types/company.php:54
+msgid "No company industry found."
+msgstr ""
+
+#: post-types/company.php:79
+msgid "No company location found."
+msgstr ""
+
+#: page-templates/company-dashboard-inbox.php:519
+#: page-templates/candidate-dashboard-inbox.php:519
+msgid "No conversation selected"
+msgstr ""
+
+#: post-types/invoice.php:24
+msgid "No Invoices found"
+msgstr ""
+
+#: post-types/invoice.php:25
+msgid "No Invoices found in Trash"
+msgstr ""
+
+#: post-types/job.php:79
+msgid "No job category found."
+msgstr ""
+
+#: post-types/job.php:129
+msgid "No job level found."
+msgstr ""
+
+#: post-types/job.php:54
+msgid "No job location found."
+msgstr ""
+
+#: post-types/job.php:104
+msgid "No job type found."
+msgstr ""
+
+#: post-types/job.php:24
+msgid "No Jobs found"
+msgstr ""
+
+#: post-types/job.php:25
+msgid "No Jobs found in Trash"
+msgstr ""
+
+#: meta/page-meta.php:272
+msgid "No margin bottom"
+msgstr ""
+
+#: post-types/membership.php:24
+msgid "No Membership Plans found"
+msgstr ""
+
+#: post-types/membership.php:25
+msgid "No Membership Plans found in Trash"
+msgstr ""
+
+#: page-templates/company-dashboard-inbox.php:134
+#: page-templates/company-dashboard-inbox.php:140
+#: page-templates/candidate-dashboard-inbox.php:134
+#: page-templates/candidate-dashboard-inbox.php:140
+msgid "No messages found."
+msgstr ""
+
+#: page-templates/company-dashboard.php:541
+msgid "No recent candidates"
+msgstr ""
+
+#: page-templates/candidate-dashboard.php:557
+msgid "No recent job applications."
+msgstr ""
+
+#: page-templates/candidate-dashboard.php:404
+#: page-templates/company-dashboard.php:416
+msgid "No recent messages"
+msgstr ""
+
+#: page-templates/candidate-dashboard.php:314
+#: page-templates/candidate-dashboard.php:321
+#: page-templates/company-dashboard.php:326
+#: page-templates/company-dashboard.php:333
+#: views/candidate-dashboard-top.php:291 views/candidate-dashboard-top.php:296
+#: views/company-dashboard-top.php:319 views/company-dashboard-top.php:324
+msgid "No recent notifications"
+msgstr ""
+
+#: scripts.php:233
+msgid "No resume uploaded"
+msgstr ""
+
+#: post-types/subscriber.php:24
+msgid "No Subscribers found"
+msgstr ""
+
+#: post-types/subscriber.php:25
+msgid "No Subscribers found in Trash"
+msgstr ""
+
+#: post-types/testimonial.php:24
+msgid "No Testimonials found"
+msgstr ""
+
+#: post-types/testimonial.php:25
+msgid "No Testimonials found in Trash"
+msgstr ""
+
+#: meta/page-meta.php:85 post-types/candidate.php:525
+#: post-types/company.php:318 post-types/company.php:373 post-types/job.php:286
+#: nav/init.php:49 admin/sections/authentication.php:90
+msgid "None"
+msgstr ""
+
+#: post-types/subscriber.php:43
+msgid "Notes"
+msgstr ""
+
+#: page-templates/candidate-dashboard.php:139
+#: page-templates/company-dashboard-notifications.php:69
+#: page-templates/company-dashboard.php:140
+#: page-templates/candidate-dashboard-notifications.php:69
+#: post-types/company.php:112 views/company-dashboard-side.php:204
+#: views/candidate-dashboard-top.php:181 views/candidate-dashboard-side.php:175
+#: views/company-dashboard-top.php:199
+msgid "Notifications"
+msgstr ""
+
+#: page-templates/company-dashboard-profile.php:600 post-types/company.php:405
+msgid "Notify the company when a new candidate applies for a job"
+msgstr ""
+
+#: scripts.php:89 meta/page-meta-header-image-rotator.php:308
+#: meta/page-meta-header-boxed.php:252
+#: meta/page-meta-header-animated-cards.php:236
+msgid "Number"
+msgstr ""
+
+#: elementor/widgets/featured-candidates.php:116
+msgid "Number of Candidates"
+msgstr ""
+
+#: elementor/widgets/featured-companies.php:116
+msgid "Number of Companies"
+msgstr ""
+
+#: post-types/membership.php:124
+msgid "Number of Featured Jobs"
+msgstr ""
+
+#: admin/sections/membership.php:74
+msgid "Number of Free Featured Job Postings"
+msgstr ""
+
+#: admin/sections/membership.php:54
+msgid "Number of Free Job Postings"
+msgstr ""
+
+#: post-types/membership.php:104
+msgid "Number of Job Postings"
+msgstr ""
+
+#: elementor/widgets/featured-jobs.php:116
+#: elementor/widgets/recent-jobs.php:116
+msgid "Number of Jobs"
+msgstr ""
+
+#: scripts.php:52 scripts.php:84
+msgid "Ok"
+msgstr ""
+
+#: services/users.php:532
+msgid "Old password field is mandatory."
+msgstr ""
+
+#: services/users.php:598
+msgid "Old password is incorrect."
+msgstr ""
+
+#: page-templates/job-search.php:111
+msgid "Oldest"
+msgstr ""
+
+#: elementor/widgets/job-categories.php:142
+msgid "Opaque"
+msgstr ""
+
+#: blocks/job-locations.php:133 blocks/job-locations.php:192
+#: blocks/job-locations.php:247 blocks/job-categories.php:132
+#: blocks/job-categories.php:161 blocks/job-categories.php:250
+#: blocks/job-categories.php:314 blocks/job-categories.php:343
+#: elementor/widgets/job-locations.php:269
+#: elementor/widgets/job-locations.php:328
+#: elementor/widgets/job-locations.php:383
+#: elementor/widgets/job-categories.php:245
+#: elementor/widgets/job-categories.php:270
+#: elementor/widgets/job-categories.php:348
+#: elementor/widgets/job-categories.php:401
+#: elementor/widgets/job-categories.php:426
+msgid "open positions"
+msgstr ""
+
+#: admin/libs/import/wordpress-importer.php:316
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: admin/libs/import/wordpress-importer.php:303
+msgid "or create new user with login name:"
+msgstr ""
+
+#: meta/page-meta.php:27
+msgid "Page Settings"
+msgstr ""
+
+#: meta/page-meta.php:180 meta/page-meta.php:386 meta/page-meta.php:595
+#: meta/page-meta.php:737
+msgid "Page subtitle"
+msgstr ""
+
+#: page-templates/company-dashboard-edit-job.php:96
+#: page-templates/company-dashboard-jobs.php:332
+msgid "Paid"
+msgstr ""
+
+#: post-types/candidate.php:26
+msgid "Parent Candidate"
+msgstr ""
+
+#: post-types/company.php:26
+msgid "Parent Company"
+msgstr ""
+
+#: post-types/invoice.php:26
+msgid "Parent Invoice"
+msgstr ""
+
+#: post-types/job.php:26
+msgid "Parent Job"
+msgstr ""
+
+#: post-types/membership.php:26
+msgid "Parent Membership Plan"
+msgstr ""
+
+#: post-types/subscriber.php:26
+msgid "Parent Subscriber"
+msgstr ""
+
+#: post-types/testimonial.php:26
+msgid "Parent Testimonial"
+msgstr ""
+
+#: page-templates/candidate-dashboard-password.php:49
+#: page-templates/company-dashboard-password.php:55 views/user-modal.php:52
+#: views/user-modal.php:53
+msgid "Password"
+msgstr ""
+
+#: services/users.php:486
+msgid "Password field empty!"
+msgstr ""
+
+#: services/users.php:460
+msgid "Password Reset Request"
+msgstr ""
+
+#: services/users.php:287
+msgid "Password too short. Please enter at least 6 characters!"
+msgstr ""
+
+#: services/users.php:221
+#, php-format
+msgid "Password: %s"
+msgstr ""
+
+#: admin/sections/membership.php:207
+msgid "Pay per job posting"
+msgstr ""
+
+#: page-templates/company-dashboard-jobs.php:453
+#: page-templates/company-dashboard-jobs.php:515
+#: page-templates/company-dashboard-subscriptions.php:288
+msgid "Pay with PayPal"
+msgstr ""
+
+#: page-templates/company-dashboard-jobs.php:456
+#: page-templates/company-dashboard-jobs.php:518
+#: page-templates/company-dashboard-subscriptions.php:291
+msgid "Pay with Stripe"
+msgstr ""
+
+#: admin/sections/membership.php:24
+msgid "Payment Currency"
+msgstr ""
+
+#: page-templates/company-dashboard-edit-job.php:100
+#: page-templates/company-dashboard-jobs.php:336
+msgid "Payment required"
+msgstr ""
+
+#: admin/sections/membership.php:84
+msgid "Payment System"
+msgstr ""
+
+#: admin/sections/membership.php:17
+msgid "Payment Type"
+msgstr ""
+
+#: post-types/company.php:333
+msgid "Payment type is disabled."
+msgstr ""
+
+#: admin/sections/membership.php:463
+msgid "PayPal"
+msgstr ""
+
+#: admin/sections/membership.php:134
+msgid "PayPal API Password"
+msgstr ""
+
+#: admin/sections/membership.php:144
+msgid "PayPal API Signature"
+msgstr ""
+
+#: admin/sections/membership.php:124
+msgid "PayPal API Username"
+msgstr ""
+
+#: admin/sections/membership.php:94
+msgid "PayPal API Version"
+msgstr ""
+
+#: admin/sections/membership.php:104
+msgid "PayPal Client ID"
+msgstr ""
+
+#: admin/sections/membership.php:114
+msgid "PayPal Client Secret Key"
+msgstr ""
+
+#: page-templates/init.php:54
+msgid "PayPal Processor"
+msgstr ""
+
+#: admin/sections/membership.php:154
+msgid "PayPal Receiving E-mail"
+msgstr ""
+
+#: page-templates/company-dashboard-edit-job.php:79
+#: page-templates/company-dashboard-jobs.php:321
+msgid "Pending"
+msgstr ""
+
+#: page-templates/candidate-dashboard-profile.php:138
+#: page-templates/company-dashboard-profile.php:123
+#: page-templates/candidate-dashboard-apply.php:119
+#: post-types/candidate.php:165 post-types/company.php:133
+#: elementor/widgets/contact-info.php:70
+msgid "Phone"
+msgstr ""
+
+#: scripts.php:92
+msgid "Photo"
+msgstr ""
+
+#: meta/page-meta-header-image-rotator.php:146
+msgid "Photos List"
+msgstr ""
+
+#: views/social.php:54
+msgid "Pinterest"
+msgstr ""
+
+#. Author of the plugin
+msgid "Pixel Prime"
+msgstr ""
+
+#: post-types/membership.php:149
+msgid "Plan Price"
+msgstr ""
+
+#: services/subscription.php:20
+msgid "Please provide a valid email address."
+msgstr ""
+
+#: page-templates/company-dashboard-new-job.php:678
+msgid ""
+"Please renew your membership plan subscription in order to post new job "
+"offers."
+msgstr ""
+
+#: post-types/candidate.php:45
+msgid "Popular Candidate Industries"
+msgstr ""
+
+#: post-types/candidate.php:70
+msgid "Popular Candidate Locations"
+msgstr ""
+
+#: post-types/candidate.php:95
+msgid "Popular Candidate Skills"
+msgstr ""
+
+#: post-types/company.php:45
+msgid "Popular Company Industries"
+msgstr ""
+
+#: post-types/company.php:70
+msgid "Popular Company Locations"
+msgstr ""
+
+#: post-types/job.php:70
+msgid "Popular Job Categories"
+msgstr ""
+
+#: post-types/job.php:120
+msgid "Popular Job Levels"
+msgstr ""
+
+#: post-types/job.php:45
+msgid "Popular Job Locations"
+msgstr ""
+
+#: post-types/job.php:95
+msgid "Popular Job Types"
+msgstr ""
+
+#: views/page-header/animated_cards.php:51
+#: views/page-header/illustration.php:50 views/page-header/boxed.php:58
+#: views/page-header/image_rotator.php:54 views/page-header/image_card.php:50
+msgid "Popular Searches"
+msgstr ""
+
+#: post-types/membership.php:175
+msgid "Popular/Recommended Plan"
+msgstr ""
+
+#: post-types/membership.php:180
+msgid "Popular/Recommended Plan Label"
+msgstr ""
+
+#: elementor/widgets/promo.php:91
+msgid "Position"
+msgstr ""
+
+#: views/company-dashboard-top.php:220
+msgid "Post a Job"
+msgstr ""
+
+#: post-types/invoice.php:208
+msgid "Price"
+msgstr ""
+
+#: admin/sections/colors.php:24
+msgid "Primary"
+msgstr ""
+
+#: admin/sections/colors.php:31
+msgid "Primary Dark"
+msgstr ""
+
+#: admin/sections/colors.php:38
+msgid "Primary Light"
+msgstr ""
+
+#: page-templates/candidate-dashboard.php:155
+msgid "Profile Visitors"
+msgstr ""
+
+#: page-templates/candidate-dashboard.php:109
+msgid "Profile visitors"
+msgstr ""
+
+#: elementor/widgets/promo.php:13
+msgid "Promo"
+msgstr ""
+
+#: page-templates/company-dashboard-edit-job.php:650
+#: page-templates/company-dashboard-new-job.php:642
+#: page-templates/company-dashboard-jobs.php:108
+msgid "Publish"
+msgstr ""
+
+#: page-templates/company-dashboard-edit-job.php:75
+#: page-templates/company-dashboard-jobs.php:317
+msgid "Published"
+msgstr ""
+
+#: post-types/invoice.php:209
+msgid "Purchased By"
+msgstr ""
+
+#: elementor/widgets/faqs.php:91
+msgid "Question"
+msgstr ""
+
+#: elementor/widgets/faqs.php:81
+msgid "Questions"
+msgstr ""
+
+#: elementor/widgets/faqs.php:113
+msgid "Questions List"
+msgstr ""
+
+#: views/candidate-dashboard-top.php:286 views/company-dashboard-top.php:314
+msgid "Read All"
+msgstr ""
+
+#: page-templates/candidate-dashboard.php:306
+#: page-templates/candidate-dashboard.php:397
+#: page-templates/company-dashboard.php:318
+#: page-templates/company-dashboard.php:409
+msgid "Read all"
+msgstr ""
+
+#: blocks/latest-articles.php:169 blocks/featured-articles.php:171
+#: elementor/widgets/latest-articles.php:215
+#: elementor/widgets/featured-articles.php:217
+msgid "Read All Articles"
+msgstr ""
+
+#: blocks/latest-articles.php:153 blocks/featured-articles.php:155
+#: elementor/widgets/latest-articles.php:201
+#: elementor/widgets/featured-articles.php:203
+msgid "Read more"
+msgstr ""
+
+#: admin/sections/welcome.php:37
+msgid "Read the documentation"
+msgstr ""
+
+#: page-templates/company-dashboard.php:424
+msgid "Recent Candidates"
+msgstr ""
+
+#: page-templates/candidate-dashboard.php:412
+msgid "Recent Job Apllications"
+msgstr ""
+
+#: elementor/widgets/recent-jobs.php:13
+msgid "Recent Jobs"
+msgstr ""
+
+#: page-templates/candidate-dashboard.php:330
+#: page-templates/company-dashboard.php:342
+msgid "Recent Messages"
+msgstr ""
+
+#: page-templates/candidate-dashboard.php:231
+#: page-templates/company-dashboard.php:232
+msgid "Recent Notifications"
+msgstr ""
+
+#: page-templates/company-dashboard-profile.php:163 post-types/company.php:147
+msgid "Redirect company page to this URL"
+msgstr ""
+
+#: page-templates/company-dashboard-candidates.php:148
+#: page-templates/company-dashboard-candidates.php:401
+msgid "Reject"
+msgstr ""
+
+#: page-templates/company-dashboard-candidates.php:327
+msgid "Rejected"
+msgstr ""
+
+#: admin/sections/blog.php:52
+msgid "Related Articles Subitle on Blog Post"
+msgstr ""
+
+#: admin/sections/blog.php:45
+msgid "Related Articles Title on Blog Post"
+msgstr ""
+
+#: admin/libs/import/wordpress-importer.php:172
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: admin/libs/import/wordpress-importer.php:1004
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: admin/libs/import/wordpress-importer.php:1015
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: admin/libs/import/wordpress-importer.php:991
+msgid "Remote server did not respond"
+msgstr ""
+
+#: admin/libs/import/wordpress-importer.php:997
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: page-templates/candidate-dashboard-password.php:95
+#: page-templates/company-dashboard-password.php:101
+msgid "Repeat new password"
+msgstr ""
+
+#: post-types/job.php:180
+msgid "Required Experience"
+msgstr ""
+
+#: page-templates/company-dashboard-edit-job.php:544
+#: page-templates/company-dashboard-new-job.php:585
+msgid "Required experience"
+msgstr ""
+
+#: services/users.php:253 services/users.php:267
+msgid "Required form fields are empty!"
+msgstr ""
+
+#: views/user-modal.php:230 views/user-modal.php:232
+msgid "Reset Password"
+msgstr ""
+
+#: page-templates/candidate-search.php:92
+msgid "Restricted content. You need company account to have access."
+msgstr ""
+
+#: page-templates/candidate-dashboard-profile.php:939
+#: page-templates/candidate-dashboard-apply.php:146
+#: post-types/candidate.php:138
+msgid "Resume"
+msgstr ""
+
+#: blocks/membership-plans.php:215 blocks/membership-plans.php:224
+#: page-templates/company-dashboard-subscriptions.php:232
+#: page-templates/company-dashboard-subscriptions.php:246
+#: page-templates/company-dashboard-subscriptions.php:248
+#: elementor/widgets/membership-plans.php:237
+#: elementor/widgets/membership-plans.php:239
+msgid "Resume access"
+msgstr ""
+
+#: services/apps.php:135
+msgid "Resume field is mandatory."
+msgstr ""
+
+#: elementor/widgets/contact-info.php:102 elementor/widgets/faqs.php:133
+#: elementor/widgets/membership-plans.php:89 elementor/widgets/features.php:271
+#: elementor/widgets/subscribe.php:80 elementor/widgets/latest-articles.php:88
+#: elementor/widgets/services.php:173 elementor/widgets/featured-jobs.php:223
+#: elementor/widgets/recent-jobs.php:223
+#: elementor/widgets/featured-candidates.php:199
+#: elementor/widgets/job-locations.php:177 elementor/widgets/promo.php:134
+#: elementor/widgets/testimonials.php:69
+#: elementor/widgets/job-categories.php:154
+#: elementor/widgets/featured-articles.php:88
+#: elementor/widgets/contact-form.php:80
+#: elementor/widgets/featured-companies.php:199
+msgid "Reveal Animation"
+msgstr ""
+
+#: meta/page-meta.php:531 meta/page-meta.php:720 meta/page-meta.php:862
+msgid "Right"
+msgstr ""
+
+#: meta/page-meta-header-image-rotator.php:236
+msgid "Rotator change interval"
+msgstr ""
+
+#: admin/sections/setup.php:49 admin/sections/setup.php:91
+#: admin/sections/setup.php:133 admin/sections/setup.php:175
+#: admin/sections/setup.php:217 admin/sections/setup.php:259
+#: admin/sections/setup.php:301
+msgid "Run Setup"
+msgstr ""
+
+#: page-templates/company-dashboard-edit-job.php:566
+#: page-templates/company-dashboard-new-job.php:601 post-types/job.php:186
+msgid "Salary"
+msgstr ""
+
+#: page-templates/company-dashboard-edit-job.php:686
+#: page-templates/company-dashboard-new-job.php:657
+msgid "Save Draft"
+msgstr ""
+
+#: page-templates/candidate-dashboard-password.php:114
+#: page-templates/company-dashboard-password.php:120
+msgid "Save New Password"
+msgstr ""
+
+#: widgets/custom_search.php:14
+msgid "Search"
+msgstr ""
+
+#: page-templates/candidate-dashboard-apps.php:166
+msgid "Search applications..."
+msgstr ""
+
+#: widgets/custom_search.php:13
+msgid "Search by keyword"
+msgstr ""
+
+#: views/search-candidates-form.php:172 views/search-jobs-form.php:200
+#: views/search-companies-form.php:172
+msgid "Search by Keywords"
+msgstr ""
+
+#: post-types/candidate.php:44
+msgid "Search Candidate Industries"
+msgstr ""
+
+#: post-types/candidate.php:69
+msgid "Search Candidate Locations"
+msgstr ""
+
+#: post-types/candidate.php:94
+msgid "Search Candidate Skills"
+msgstr ""
+
+#: post-types/candidate.php:23 views/search-candidates-form.php:150
+msgid "Search Candidates"
+msgstr ""
+
+#: page-templates/company-dashboard-candidates.php:198
+msgid "Search candidates..."
+msgstr ""
+
+#: post-types/company.php:23 views/search-companies-form.php:150
+msgid "Search Companies"
+msgstr ""
+
+#: post-types/company.php:44
+msgid "Search Company Industries"
+msgstr ""
+
+#: post-types/company.php:69
+msgid "Search Company Locations"
+msgstr ""
+
+#: widgets/custom_search.php:12
+msgid "Search for:"
+msgstr ""
+
+#: meta/page-meta.php:437 meta/page-meta.php:652 meta/page-meta.php:794
+msgid "Search form position"
+msgstr ""
+
+#: scripts.php:65
+msgid "Search icons"
+msgstr ""
+
+#: post-types/invoice.php:23
+msgid "Search Invoices"
+msgstr ""
+
+#: post-types/job.php:69
+msgid "Search Job Categories"
+msgstr ""
+
+#: post-types/job.php:119
+msgid "Search Job Levels"
+msgstr ""
+
+#: post-types/job.php:44
+msgid "Search Job Locations"
+msgstr ""
+
+#: post-types/job.php:94
+msgid "Search Job Types"
+msgstr ""
+
+#: page-templates/candidate-dashboard-apply.php:53 post-types/job.php:23
+#: views/candidate-dashboard-top.php:202 views/candidate-dashboard-top.php:432
+#: views/candidate-dashboard-top.php:446 views/search-jobs-form.php:166
+#: views/candidate-dashboard-side.php:292
+msgid "Search Jobs"
+msgstr ""
+
+#: page-templates/company-dashboard-jobs.php:159
+#: page-templates/candidate-dashboard-favs.php:133
+msgid "Search jobs..."
+msgstr ""
+
+#: post-types/membership.php:23
+msgid "Search Membership Plans"
+msgstr ""
+
+#: page-templates/company-dashboard-inbox.php:74
+#: page-templates/candidate-dashboard-inbox.php:74
+msgid "Search messages..."
+msgstr ""
+
+#: post-types/subscriber.php:23
+msgid "Search Subscribers"
+msgstr ""
+
+#: post-types/testimonial.php:23
+msgid "Search Testimonials"
+msgstr ""
+
+#: admin/sections/colors.php:45
+msgid "Secondary"
+msgstr ""
+
+#: admin/sections/colors.php:52
+msgid "Secondary Light"
+msgstr ""
+
+#: meta/page-meta-header-image-rotator.php:237
+msgid "seconds"
+msgstr ""
+
+#: page-templates/company-dashboard-edit-job.php:182
+#: page-templates/company-dashboard-new-job.php:272
+msgid "Select category"
+msgstr ""
+
+#: page-templates/candidate-dashboard-profile.php:437
+#: page-templates/company-dashboard-profile.php:424
+msgid "Select industry"
+msgstr ""
+
+#: page-templates/candidate-dashboard-profile.php:478
+#: page-templates/company-dashboard-edit-job.php:228
+#: page-templates/company-dashboard-new-job.php:309
+#: page-templates/company-dashboard-profile.php:465
+msgid "Select location"
+msgstr ""
+
+#: page-templates/company-dashboard-edit-job.php:474
+#: page-templates/company-dashboard-edit-job.php:520
+#: page-templates/company-dashboard-new-job.php:532
+#: page-templates/company-dashboard-new-job.php:569
+msgid "Select type"
+msgstr ""
+
+#: page-templates/company-dashboard-inbox.php:505
+#: page-templates/candidate-dashboard-inbox.php:505
+msgid "Send"
+msgstr ""
+
+#: blocks/contact-form.php:131 views/contact-candidate-form.php:96
+#: views/contact-company-form.php:92 elementor/widgets/contact-form.php:173
+msgid "Send Message"
+msgstr ""
+
+#: page-templates/candidate-dashboard.php:282
+#: page-templates/company-dashboard-notifications.php:168
+#: page-templates/company-dashboard.php:294
+#: page-templates/candidate-dashboard-notifications.php:157
+#: views/candidate-dashboard-top.php:263 views/company-dashboard-top.php:291
+msgid "sent you a message"
+msgstr ""
+
+#: post-types/candidate.php:51
+msgid "Separate candidate industries with commas"
+msgstr ""
+
+#: post-types/candidate.php:76
+msgid "Separate candidate locations with commas"
+msgstr ""
+
+#: post-types/candidate.php:101
+msgid "Separate candidate skills with commas"
+msgstr ""
+
+#: post-types/company.php:51
+msgid "Separate company industries with commas"
+msgstr ""
+
+#: post-types/company.php:76
+msgid "Separate company locations with commas"
+msgstr ""
+
+#: post-types/job.php:76
+msgid "Separate job categories with commas"
+msgstr ""
+
+#: post-types/job.php:126
+msgid "Separate job levels with commas"
+msgstr ""
+
+#: post-types/job.php:51
+msgid "Separate job locations with commas"
+msgstr ""
+
+#: post-types/job.php:101
+msgid "Separate job types with commas"
+msgstr ""
+
+#: elementor/widgets/services.php:104
+msgid "Service Link"
+msgstr ""
+
+#: elementor/widgets/services.php:13 elementor/widgets/services.php:61
+msgid "Services"
+msgstr ""
+
+#: elementor/widgets/services.php:125
+msgid "Services List"
+msgstr ""
+
+#: meta/post-meta.php:46 page-templates/company-dashboard-jobs.php:395
+#: page-templates/company-dashboard-jobs.php:433
+#: page-templates/company-dashboard-jobs.php:485
+#: page-templates/company-dashboard-jobs.php:500
+#: page-templates/company-dashboard-jobs.php:560 post-types/candidate.php:238
+#: post-types/company.php:262 post-types/job.php:247
+msgid "Set as Featured"
+msgstr ""
+
+#: admin/sections/membership.php:310 admin/sections/membership.php:403
+msgid "Set for all existing companies"
+msgstr ""
+
+#: post-types/company.php:325
+msgid "Set Plan"
+msgstr ""
+
+#: admin/sections/membership.php:314 admin/sections/membership.php:407
+msgid "Setting for all companies..."
+msgstr ""
+
+#: post-types/company.php:326
+msgid "Setting Plan..."
+msgstr ""
+
+#: admin/sections/setup.php:58 admin/sections/setup.php:100
+#: admin/sections/setup.php:142 admin/sections/setup.php:184
+#: admin/sections/setup.php:226 admin/sections/setup.php:268
+#: admin/sections/setup.php:310
+msgid "Setting up homepage..."
+msgstr ""
+
+#: admin/sections/setup.php:61 admin/sections/setup.php:103
+#: admin/sections/setup.php:145 admin/sections/setup.php:187
+#: admin/sections/setup.php:229 admin/sections/setup.php:271
+#: admin/sections/setup.php:313
+msgid "Setting up menu..."
+msgstr ""
+
+#: admin/sections/setup.php:67 admin/sections/setup.php:109
+#: admin/sections/setup.php:151 admin/sections/setup.php:193
+#: admin/sections/setup.php:235 admin/sections/setup.php:277
+#: admin/sections/setup.php:319
+msgid "Setting up options..."
+msgstr ""
+
+#: admin/sections/setup.php:55 admin/sections/setup.php:97
+#: admin/sections/setup.php:139 admin/sections/setup.php:181
+#: admin/sections/setup.php:223 admin/sections/setup.php:265
+#: admin/sections/setup.php:307
+msgid "Setting up permalinks..."
+msgstr ""
+
+#: admin/sections/setup.php:64 admin/sections/setup.php:106
+#: admin/sections/setup.php:148 admin/sections/setup.php:190
+#: admin/sections/setup.php:232 admin/sections/setup.php:274
+#: admin/sections/setup.php:316
+msgid "Setting up widgets..."
+msgstr ""
+
+#: elementor/widgets/featured-jobs.php:187
+#: elementor/widgets/recent-jobs.php:187
+#: elementor/widgets/featured-candidates.php:163
+#: elementor/widgets/featured-companies.php:163
+msgid "Shadow"
+msgstr ""
+
+#: views/share-post.php:12
+msgid "Share this article"
+msgstr ""
+
+#: meta/page-meta-header-top-search.php:41
+#: meta/page-meta-header-image-rotator.php:41
+#: meta/page-meta-header-boxed.php:41
+#: meta/page-meta-header-animated-cards.php:41
+#: meta/page-meta-header-image-card.php:41
+#: meta/page-meta-header-image-bg.php:41
+#: meta/page-meta-header-illustration.php:41
+msgid "Show jobs search form"
+msgstr ""
+
+#: meta/page-meta-header-image-rotator.php:52
+#: meta/page-meta-header-boxed.php:52
+#: meta/page-meta-header-animated-cards.php:52
+#: meta/page-meta-header-image-card.php:52
+#: meta/page-meta-header-illustration.php:52
+msgid "Show popular job searches"
+msgstr ""
+
+#: admin/sections/blog.php:38
+msgid "Show Related Articles on Blog Post"
+msgstr ""
+
+#: admin/sections/jobs.php:31
+msgid "Show Similar Jobs on Job Page"
+msgstr ""
+
+#: page-templates/company-search.php:78 page-templates/candidate-search.php:107
+#: page-templates/job-search.php:94
+msgid "Showing"
+msgstr ""
+
+#: meta/page-meta.php:463 meta/page-meta.php:497 meta/page-meta.php:682
+#: meta/page-meta.php:824 admin/sections/candidates.php:87
+#: admin/sections/companies.php:80 admin/sections/jobs.php:108
+msgid "Side"
+msgstr ""
+
+#: meta/page-meta.php:505 meta/page-meta.php:690 meta/page-meta.php:832
+msgid "Sidebar position"
+msgstr ""
+
+#: views/user-modal.php:40 views/user-modal.php:182
+msgid "Sign in"
+msgstr ""
+
+#: page-templates/candidate-search.php:99
+msgid "Sign In Now"
+msgstr ""
+
+#: services/users.php:184
+msgid "Sign in successful, redirecting..."
+msgstr ""
+
+#: views/user-modal.php:98
+msgid "Sign up"
+msgstr ""
+
+#: admin/sections/jobs.php:45
+msgid "Similar Jobs Subtitle on Job Page"
+msgstr ""
+
+#: admin/sections/jobs.php:38
+msgid "Similar Jobs Title on Job Page"
+msgstr ""
+
+#: page-templates/company-dashboard-profile.php:503 post-types/company.php:161
+msgid "Size (number of employees)"
+msgstr ""
+
+#: page-templates/candidate-dashboard-profile.php:512
+msgid "Skill"
+msgstr ""
+
+#: page-templates/candidate-dashboard-profile.php:494
+msgid "Skills"
+msgstr ""
+
+#: meta/page-meta.php:567 elementor/widgets/featured-jobs.php:167
+#: elementor/widgets/recent-jobs.php:167
+#: elementor/widgets/job-locations.php:157
+msgid "Small"
+msgstr ""
+
+#: meta/page-meta-header-boxed.php:61
+msgid "Small Feature Card"
+msgstr ""
+
+#: page-templates/candidate-dashboard-profile.php:865
+#: page-templates/company-dashboard-profile.php:517
+#: post-types/candidate.php:139 post-types/company.php:108
+msgid "Social Media"
+msgstr ""
+
+#: services/users.php:454
+msgid ""
+"Someone has asked to reset the password for the following site and username."
+msgstr ""
+
+#: services/users.php:301
+msgid "Something went wrong!"
+msgstr ""
+
+#: services/subscription.php:67
+msgid "Something went wrong, please try again."
+msgstr ""
+
+#: services/save-job.php:565
+msgid "Something went wrong. The job was not set as featured."
+msgstr ""
+
+#: services/users.php:494 services/users.php:497
+msgid "Sorry, the link does not appear to be valid or is expired!"
+msgstr ""
+
+#: admin/libs/import/wordpress-importer.php:127
+#: admin/libs/import/wordpress-importer.php:136
+#: admin/libs/import/wordpress-importer.php:187
+#: admin/libs/import/wordpress-importer.php:191
+#: admin/libs/import/wordpress-importer.php:200
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: scripts.php:56 page-templates/candidate-dashboard-profile.php:777
+#: post-types/candidate.php:393
+msgid "Specialization/Course of study"
+msgstr ""
+
+#: page-templates/company-dashboard-new-job.php:69
+msgid "Standard Job"
+msgstr ""
+
+#: post-types/invoice.php:133
+msgid "Standard Job Posting"
+msgstr ""
+
+#: meta/page-meta-header-image-bg.php:76 elementor/widgets/faqs.php:63
+#: elementor/widgets/membership-plans.php:63
+#: elementor/widgets/latest-articles.php:62 elementor/widgets/services.php:157
+#: elementor/widgets/featured-jobs.php:133
+#: elementor/widgets/recent-jobs.php:133
+#: elementor/widgets/featured-candidates.php:133
+#: elementor/widgets/job-locations.php:81 elementor/widgets/promo.php:95
+#: elementor/widgets/job-categories.php:62
+#: elementor/widgets/featured-articles.php:62
+#: elementor/widgets/featured-companies.php:133
+msgid "Start"
+msgstr ""
+
+#: page-templates/company-dashboard-candidates.php:224
+#: page-templates/company-dashboard-jobs.php:191
+msgid "Status"
+msgstr ""
+
+#: admin/sections/membership.php:464
+msgid "Stripe"
+msgstr ""
+
+#: admin/sections/membership.php:184
+msgid "Stripe Endpoint Signing Secret"
+msgstr ""
+
+#: page-templates/init.php:55
+msgid "Stripe Processor"
+msgstr ""
+
+#: admin/sections/membership.php:164
+msgid "Stripe Publishable Key"
+msgstr ""
+
+#: admin/sections/membership.php:174
+msgid "Stripe Secret Key"
+msgstr ""
+
+#: nav/init.php:136
+msgid "Submenu Type"
+msgstr ""
+
+#: page-templates/company-dashboard-jobs.php:470
+msgid "Submission Price"
+msgstr ""
+
+#: admin/libs/import/wordpress-importer.php:279
+msgid "Submit"
+msgstr ""
+
+#: blocks/subscribe.php:106 elementor/widgets/subscribe.php:13
+#: elementor/widgets/subscribe.php:146
+msgid "Subscribe"
+msgstr ""
+
+#: post-types/subscriber.php:15
+msgid "Subscriber"
+msgstr ""
+
+#: post-types/subscriber.php:14
+msgid "Subscribers"
+msgstr ""
+
+#: page-templates/company-dashboard-new-job.php:694
+msgid "Subscription required."
+msgstr ""
+
+#: page-templates/company-dashboard-subscriptions.php:77
+#: views/company-dashboard-side.php:152 views/company-dashboard-top.php:158
+msgid "Subscriptions"
+msgstr ""
+
+#: elementor/widgets/contact-info.php:48 elementor/widgets/faqs.php:48
+#: elementor/widgets/membership-plans.php:48 elementor/widgets/subscribe.php:48
+#: elementor/widgets/latest-articles.php:47 elementor/widgets/services.php:48
+#: elementor/widgets/featured-jobs.php:85 elementor/widgets/recent-jobs.php:85
+#: elementor/widgets/featured-candidates.php:85
+#: elementor/widgets/job-locations.php:66 elementor/widgets/testimonials.php:48
+#: elementor/widgets/job-categories.php:47
+#: elementor/widgets/featured-articles.php:47
+#: elementor/widgets/contact-form.php:48
+#: elementor/widgets/featured-companies.php:85
+msgid "Subtitle"
+msgstr ""
+
+#: page-templates/candidate-dashboard-apply.php:44
+msgid "Success!"
+msgstr ""
+
+#: admin/sections/authentication.php:17
+msgid "Terms and Conditions Page"
+msgstr ""
+
+#: admin/sections/membership.php:491
+msgid "Test"
+msgstr ""
+
+#: post-types/testimonial.php:15
+msgid "Testimonial"
+msgstr ""
+
+#: post-types/testimonial.php:14 elementor/widgets/testimonials.php:13
+msgid "Testimonials"
+msgstr ""
+
+#: scripts.php:91 meta/page-meta-header-image-rotator.php:324
+#: meta/page-meta-header-boxed.php:268
+#: meta/page-meta-header-animated-cards.php:252 admin/sections/colors.php:17
+#: elementor/widgets/features.php:47 elementor/widgets/services.php:93
+#: elementor/widgets/promo.php:48
+msgid "Text"
+msgstr ""
+
+#: services/users.php:219
+msgid ""
+"Thank you for signing up with us. Your new account has been setup and you "
+"can now sign in using the details below."
+msgstr ""
+
+#: services/users.php:222
+msgid "Thank you,"
+msgstr ""
+
+#: admin/libs/import/wordpress-importer.php:192
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: admin/libs/import/wordpress-importer.php:128
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: services/save-job.php:559
+msgid "The job was successfully set as featured. Redirecting..."
+msgstr ""
+
+#: services/users.php:565
+msgid "The passwords do not match."
+msgstr ""
+
+#: admin/settings.php:186 admin/sections/setup.php:11
+msgid "Theme Setup"
+msgstr ""
+
+#: admin/sections/welcome.php:23
+msgid "Theme version"
+msgstr ""
+
+#: admin/libs/import/wordpress-importer.php:208
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: scripts.php:50 scripts.php:58
+#: page-templates/candidate-dashboard-profile.php:641
+#: page-templates/candidate-dashboard-profile.php:811
+#: post-types/candidate.php:314 post-types/candidate.php:405
+msgid "Time period"
+msgstr ""
+
+#: page-templates/candidate-dashboard-profile.php:155
+#: page-templates/company-dashboard-jobs.php:179 post-types/candidate.php:153
+#: elementor/widgets/contact-info.php:29 elementor/widgets/contact-info.php:37
+#: elementor/widgets/faqs.php:29 elementor/widgets/faqs.php:37
+#: elementor/widgets/membership-plans.php:29
+#: elementor/widgets/membership-plans.php:37 elementor/widgets/features.php:28
+#: elementor/widgets/features.php:36 elementor/widgets/subscribe.php:29
+#: elementor/widgets/subscribe.php:37 elementor/widgets/latest-articles.php:28
+#: elementor/widgets/latest-articles.php:36 elementor/widgets/services.php:29
+#: elementor/widgets/services.php:37 elementor/widgets/services.php:82
+#: elementor/widgets/featured-jobs.php:66
+#: elementor/widgets/featured-jobs.php:74 elementor/widgets/recent-jobs.php:66
+#: elementor/widgets/recent-jobs.php:74
+#: elementor/widgets/featured-candidates.php:66
+#: elementor/widgets/featured-candidates.php:74
+#: elementor/widgets/job-locations.php:47
+#: elementor/widgets/job-locations.php:55 elementor/widgets/promo.php:29
+#: elementor/widgets/promo.php:37 elementor/widgets/testimonials.php:29
+#: elementor/widgets/testimonials.php:37
+#: elementor/widgets/job-categories.php:28
+#: elementor/widgets/job-categories.php:36
+#: elementor/widgets/featured-articles.php:28
+#: elementor/widgets/featured-articles.php:36
+#: elementor/widgets/contact-form.php:29 elementor/widgets/contact-form.php:37
+#: elementor/widgets/featured-companies.php:66
+#: elementor/widgets/featured-companies.php:74
+msgid "Title"
+msgstr ""
+
+#: meta/page-meta.php:231
+msgid "Title background color"
+msgstr ""
+
+#: meta/page-meta.php:195
+msgid "Title/Subtitle align"
+msgstr ""
+
+#: admin/libs/import/wordpress-importer.php:260
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>"
+"admin</code>s entries."
+msgstr ""
+
+#: services/users.php:457
+msgid ""
+"To reset your password visit the following address, otherwise just ignore "
+"this email and nothing will happen."
+msgstr ""
+
+#: meta/page-meta.php:452 meta/page-meta.php:486 meta/page-meta.php:669
+#: meta/page-meta.php:811
+msgid "Top"
+msgstr ""
+
+#: admin/sections/setup.php:380
+msgid "Top Menu"
+msgstr ""
+
+#: meta/page-meta.php:91
+msgid "Top Search"
+msgstr ""
+
+#: elementor/widgets/job-categories.php:138
+msgid "Transparent"
+msgstr ""
+
+#: page-templates/candidate-dashboard-profile.php:890
+#: page-templates/company-dashboard-profile.php:542
+#: post-types/candidate.php:467 post-types/company.php:184 views/social.php:42
+msgid "Twitter"
+msgstr ""
+
+#: admin/sections/footer.php:31
+msgid "Twitter Link"
+msgstr ""
+
+#: page-templates/candidate-dashboard-apps.php:196
+#: page-templates/candidate-dashboard-favs.php:163
+msgid "Type"
+msgstr ""
+
+#: page-templates/candidate-dashboard-profile.php:665
+#: page-templates/candidate-dashboard-profile.php:835
+msgid "Type a short description..."
+msgstr ""
+
+#: views/filter-jobs-form.php:141
+msgid "Type of Employment"
+msgstr ""
+
+#: page-templates/company-dashboard-edit-job.php:466
+#: page-templates/company-dashboard-new-job.php:524
+#: views/filter-jobs-form.php:48
+msgid "Type of employment"
+msgstr ""
+
+#: services/save-job.php:85 services/save-job.php:281
+msgid "Type of employment field is mandatory."
+msgstr ""
+
+#: blocks/contact-form.php:122 page-templates/company-dashboard-inbox.php:476
+#: page-templates/candidate-dashboard-apply.php:140
+#: page-templates/candidate-dashboard-inbox.php:476
+#: views/contact-candidate-form.php:82 views/contact-company-form.php:78
+#: elementor/widgets/contact-form.php:161
+msgid "Type your message here..."
+msgstr ""
+
+#: page-templates/company-dashboard-new-job.php:73
+#: page-templates/company-dashboard-subscriptions.php:214
+msgid "Unlimited"
+msgstr ""
+
+#: admin/sections/membership.php:64
+msgid "Unlimited Free Job Postings"
+msgstr ""
+
+#: post-types/membership.php:116
+msgid "Unlimited Job Postings"
+msgstr ""
+
+#: blocks/membership-plans.php:188
+#: page-templates/company-dashboard-subscriptions.php:240
+#: elementor/widgets/membership-plans.php:231
+msgid "Unlimited job postings"
+msgstr ""
+
+#: page-templates/candidate-dashboard.php:124
+#: page-templates/company-dashboard.php:125
+msgid "Unread messages"
+msgstr ""
+
+#: page-templates/company-dashboard-edit-job.php:668
+msgid "Update"
+msgstr ""
+
+#: post-types/candidate.php:48
+msgid "Update Candidate Industry"
+msgstr ""
+
+#: post-types/candidate.php:73
+msgid "Update Candidate Location"
+msgstr ""
+
+#: post-types/candidate.php:98
+msgid "Update Candidate Skill"
+msgstr ""
+
+#: post-types/company.php:48
+msgid "Update Company Industry"
+msgstr ""
+
+#: post-types/company.php:73
+msgid "Update Company Location"
+msgstr ""
+
+#: post-types/job.php:73
+msgid "Update Job Category"
+msgstr ""
+
+#: post-types/job.php:123
+msgid "Update Job Level"
+msgstr ""
+
+#: post-types/job.php:48
+msgid "Update Job Location"
+msgstr ""
+
+#: post-types/job.php:98
+msgid "Update Job Type"
+msgstr ""
+
+#: page-templates/candidate-dashboard-profile.php:1011
+#: page-templates/company-dashboard-profile.php:617
+msgid "Update Profile"
+msgstr ""
+
+#: page-templates/company-dashboard-jobs.php:410
+msgid "Upgrade to Featured"
+msgstr ""
+
+#: services/paypal.php:169
+msgid "Upgrade to Featured Job"
+msgstr ""
+
+#: services/paypal.php:130
+msgid "Upgrade to Featured Job on "
+msgstr ""
+
+#: services/stripe.php:47
+msgid "Upgrade to featured job on "
+msgstr ""
+
+#: page-templates/candidate-dashboard-profile.php:206
+#: page-templates/company-dashboard-edit-job.php:270
+#: page-templates/company-dashboard-new-job.php:337
+#: page-templates/company-dashboard-profile.php:193
+msgid "Upload Cover Image"
+msgstr ""
+
+#: page-templates/company-dashboard-profile.php:227
+msgid "Upload Logo"
+msgstr ""
+
+#: page-templates/candidate-dashboard-profile.php:971
+#: page-templates/candidate-dashboard-apply.php:166
+msgid "Upload PDF"
+msgstr ""
+
+#: page-templates/candidate-dashboard-profile.php:240
+msgid "Upload Photo"
+msgstr ""
+
+#: post-types/candidate.php:450
+msgid "Upload Resume"
+msgstr ""
+
+#: post-types/candidate.php:31
+msgctxt "URL SLUG"
+msgid "candidates"
+msgstr ""
+
+#: post-types/company.php:31
+msgctxt "URL SLUG"
+msgid "companies"
+msgstr ""
+
+#: post-types/invoice.php:31
+msgctxt "URL SLUG"
+msgid "invoices"
+msgstr ""
+
+#: post-types/job.php:31
+msgctxt "URL SLUG"
+msgid "jobs"
+msgstr ""
+
+#: post-types/membership.php:31
+msgctxt "URL SLUG"
+msgid "membership_plans"
+msgstr ""
+
+#: post-types/subscriber.php:31
+msgctxt "URL SLUG"
+msgid "subscribers"
+msgstr ""
+
+#: post-types/testimonial.php:31
+msgctxt "URL SLUG"
+msgid "testimonials"
+msgstr ""
+
+#: post-types/candidate.php:140 post-types/company.php:114
+msgid "User"
+msgstr ""
+
+#: services/users.php:207 services/users.php:220 services/users.php:456
+#, php-format
+msgid "Username: %s"
+msgstr ""
+
+#: elementor/widgets/job-categories.php:115
+msgid "Vertical"
+msgstr ""
+
+#: post-types/testimonial.php:21 post-types/candidate.php:21
+#: post-types/company.php:21 post-types/invoice.php:21
+#: post-types/membership.php:21 post-types/subscriber.php:21
+#: post-types/job.php:21
+msgid "View"
+msgstr ""
+
+#: page-templates/company-dashboard.php:534
+msgid "View all"
+msgstr ""
+
+#: blocks/latest-articles.php:104 blocks/featured-articles.php:106
+#: elementor/widgets/latest-articles.php:157
+#: elementor/widgets/featured-articles.php:159
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: post-types/candidate.php:22
+msgid "View Candidate"
+msgstr ""
+
+#: post-types/company.php:22
+msgid "View Company"
+msgstr ""
+
+#: post-types/invoice.php:22
+msgid "View Invoice"
+msgstr ""
+
+#: post-types/job.php:22
+msgid "View Job"
+msgstr ""
+
+#: page-templates/candidate-dashboard-apps.php:296
+#: page-templates/candidate-dashboard-favs.php:258
+msgid "View job"
+msgstr ""
+
+#: page-templates/candidate-dashboard.php:542
+msgid "View job details"
+msgstr ""
+
+#: post-types/membership.php:22
+msgid "View Membership Plan"
+msgstr ""
+
+#: page-templates/candidate-search.php:184
+msgid "View Profile"
+msgstr ""
+
+#: blocks/featured-candidates.php:206
+#: page-templates/company-dashboard-candidates.php:360
+#: elementor/widgets/featured-candidates.php:365
+msgid "View profile"
+msgstr ""
+
+#: post-types/subscriber.php:22
+msgid "View Subscriber"
+msgstr ""
+
+#: post-types/testimonial.php:22
+msgid "View Testimonial"
+msgstr ""
+
+#: page-templates/candidate-dashboard.php:255
+#: page-templates/candidate-dashboard-notifications.php:105
+#: views/candidate-dashboard-top.php:243
+msgid "viewed your profile"
+msgstr ""
+
+#: admin/sections/candidates.php:108
+msgid ""
+"Visibility restrictions for public access (visible only for company role)"
+msgstr ""
+
+#: page-templates/candidate-dashboard-profile.php:170
+#: page-templates/company-dashboard-profile.php:140
+#: post-types/candidate.php:173 post-types/company.php:139
+msgid "Website"
+msgstr ""
+
+#: blocks/membership-plans.php:130
+#: page-templates/company-dashboard-subscriptions.php:158
+#: elementor/widgets/membership-plans.php:185
+msgid "week"
+msgstr ""
+
+#: post-types/membership.php:89
+msgid "Weeks"
+msgstr ""
+
+#: blocks/membership-plans.php:132
+#: page-templates/company-dashboard-subscriptions.php:160
+#: elementor/widgets/membership-plans.php:187
+msgid "weeks"
+msgstr ""
+
+#: admin/settings.php:176 page-templates/candidate-dashboard.php:75
+#: page-templates/company-dashboard.php:76 admin/sections/welcome.php:11
+msgid "Welcome"
+msgstr ""
+
+#: views/user-modal.php:42
+msgid "Welcome back!"
+msgstr ""
+
+#: services/users.php:218
+#, php-format
+msgid "Welcome, %s!"
+msgstr ""
+
+#: views/search-jobs-form-hero.php:108
+msgid "What"
+msgstr ""
+
+#: post-types/testimonial.php:43
+msgid "What the customer says"
+msgstr ""
+
+#: views/search-jobs-form-hero.php:129
+msgid "Where"
+msgstr ""
+
+#: admin/sections/candidates.php:78 admin/sections/companies.php:71
+#: admin/sections/jobs.php:99
+msgid "Wide"
+msgstr ""
+
+#: page-templates/candidate-dashboard-profile.php:525
+#: post-types/candidate.php:136
+msgid "Work Experience"
+msgstr ""
+
+#: page-templates/candidate-dashboard-apps.php:285
+#: page-templates/company-dashboard-candidates.php:348
+#: page-templates/company-dashboard-jobs.php:308
+#: page-templates/candidate-dashboard-favs.php:247
+msgid "Y/m/d"
+msgstr ""
+
+#: blocks/membership-plans.php:142
+#: page-templates/company-dashboard-subscriptions.php:172
+#: elementor/widgets/membership-plans.php:197
+msgid "year"
+msgstr ""
+
+#: post-types/membership.php:95
+msgid "Years"
+msgstr ""
+
+#: blocks/membership-plans.php:144
+#: page-templates/company-dashboard-subscriptions.php:174
+#: elementor/widgets/membership-plans.php:199
+msgid "years"
+msgstr ""
+
+#: page-templates/company-dashboard-subscriptions.php:233
+#: elementor/widgets/featured-jobs.php:213
+#: elementor/widgets/recent-jobs.php:213
+#: elementor/widgets/featured-candidates.php:189
+#: elementor/widgets/featured-companies.php:189
+msgid "Yes"
+msgstr ""
+
+#: services/users.php:141
+msgid "You are already signed in, redirecting..."
+msgstr ""
+
+#: services/paypal.php:356
+#, php-format
+msgid "You have a new featured job on %s."
+msgstr ""
+
+#: services/paypal.php:415
+#, php-format
+msgid "You have a new membership plan on %s is activated."
+msgstr ""
+
+#: services/paypal.php:359
+#, php-format
+msgid "You have a new paid job posting on %s."
+msgstr ""
+
+#: services/subscription.php:41
+msgid "You have already subscribed."
+msgstr ""
+
+#: page-templates/candidate-dashboard-apply.php:47
+msgid "You have successfully applied for the job."
+msgstr ""
+
+#: services/subscription.php:59
+msgid "You have successfully subscribed."
+msgstr ""
+
+#: page-templates/company-dashboard-new-job.php:697
+msgid "You need a membership plan subscription in order to post job offers."
+msgstr ""
+
+#: services/users.php:293
+msgid "You need to agree with Terms and Conditions"
+msgstr ""
+
+#: page-templates/company-dashboard-new-job.php:716
+msgid ""
+"You need to upgrade your membership plan in order to post new job offers."
+msgstr ""
+
+#: page-templates/company-dashboard-new-job.php:713
+msgid "You ran out of available postings."
+msgstr ""
+
+#: services/contact-block.php:40 services/contact-candidate.php:60
+#: services/contact-company.php:60
+msgid "You received the following message from "
+msgstr ""
+
+#: page-templates/company-dashboard-inbox.php:167
+#: page-templates/candidate-dashboard-inbox.php:167
+msgid "Your inbox is empty."
+msgstr ""
+
+#: services/contact-block.php:78 services/contact-candidate.php:100
+#: services/contact-company.php:100
+msgid "Your message failed to be sent."
+msgstr ""
+
+#: services/contact-block.php:28 services/contact-candidate.php:38
+#: services/contact-company.php:38
+msgid "Your message failed to be sent. Please check your fields."
+msgstr ""
+
+#: services/contact-block.php:55 services/contact-block.php:70
+#: services/contact-candidate.php:75 services/contact-candidate.php:91
+#: services/contact-company.php:75 services/contact-company.php:91
+msgid "Your message was successfully sent."
+msgstr ""
+
+#: services/users.php:503
+msgid "Your password has been reset."
+msgstr ""
+
+#: services/users.php:590
+msgid "Your password has successfuly been reset."
+msgstr ""
+
+#: services/save-job.php:189 services/save-job.php:371
+#: services/update-company-profile.php:142
+#: services/update-candidate-profile.php:255
+msgid "Your profile data was successfully updated. Redirecting..."
+msgstr ""
+
+#: page-templates/company-dashboard-new-job.php:675
+msgid "Your subscription expired."
+msgstr ""
+
+#: admin/libs/import/wordpress-importer.php:1009
+msgid "Zero size file downloaded"
+msgstr ""

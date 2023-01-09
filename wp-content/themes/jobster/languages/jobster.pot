@@ -1,0 +1,664 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Jobster\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-08-25 10:23+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.0.1\n"
+"X-Domain: jobster"
+
+#: functions.php:561
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: templates/single_job_center.php:542 templates/single_company_wide.php:117
+#: templates/single_job_wide.php:543 templates/single_company_side.php:120
+#: templates/single_job_side.php:553 templates/single_company_center.php:119
+#, php-format
+msgid "%s employees"
+msgstr ""
+
+#: templates/single_company_wide.php:69 templates/single_company_side.php:71
+#: templates/single_company_center.php:70
+msgid "About"
+msgstr ""
+
+#: templates/single_candidate_side.php:144
+#: templates/single_candidate_wide.php:145
+#: templates/single_candidate_center.php:142
+#, php-format
+msgid "About %s"
+msgstr ""
+
+#: functions.php:198
+msgid "Add"
+msgstr ""
+
+#: functions.php:61
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: functions.php:164
+msgid "Applications"
+msgstr ""
+
+#: functions.php:157 templates/single_job_center.php:242
+#: templates/single_job_center.php:381 templates/single_job_wide.php:243
+#: templates/single_job_wide.php:381 templates/single_job_side.php:253
+#: templates/single_job_side.php:391
+msgid "Applied"
+msgstr ""
+
+#: templates/single_job_center.php:193 templates/single_job_center.php:203
+#: templates/single_job_center.php:244 templates/single_job_center.php:258
+#: templates/single_job_center.php:273 templates/single_job_center.php:283
+#: templates/single_job_center.php:332 templates/single_job_center.php:342
+#: templates/single_job_center.php:383 templates/single_job_center.php:397
+#: templates/single_job_center.php:412 templates/single_job_center.php:422
+#: templates/single_job_wide.php:194 templates/single_job_wide.php:204
+#: templates/single_job_wide.php:245 templates/single_job_wide.php:259
+#: templates/single_job_wide.php:274 templates/single_job_wide.php:284
+#: templates/single_job_wide.php:332 templates/single_job_wide.php:342
+#: templates/single_job_wide.php:383 templates/single_job_wide.php:397
+#: templates/single_job_wide.php:412 templates/single_job_wide.php:422
+#: templates/single_job_side.php:204 templates/single_job_side.php:214
+#: templates/single_job_side.php:255 templates/single_job_side.php:269
+#: templates/single_job_side.php:284 templates/single_job_side.php:294
+#: templates/single_job_side.php:342 templates/single_job_side.php:352
+#: templates/single_job_side.php:393 templates/single_job_side.php:407
+#: templates/single_job_side.php:422 templates/single_job_side.php:432
+msgid "Apply Now"
+msgstr ""
+
+#: functions.php:183
+msgid "Approved"
+msgstr ""
+
+#: templates/author_cards.php:43 templates/author_list.php:41
+msgid "Articles By"
+msgstr ""
+
+#: functions.php:554
+msgid "Author"
+msgstr ""
+
+#: templates/single_company_wide.php:77 templates/single_company_side.php:80
+#: templates/single_company_center.php:78
+msgid "Available Jobs"
+msgstr ""
+
+#: functions.php:55
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:53
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:54
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/single_job_center.php:108 templates/single_job_wide.php:108
+#: templates/single_job_side.php:118
+msgid "by"
+msgstr ""
+
+#: functions.php:199
+msgid "Cancel"
+msgstr ""
+
+#: comments.php:88
+msgid "Cancel Reply"
+msgstr ""
+
+#: functions.php:259
+msgid "Column #1 Footer Widget Area"
+msgstr ""
+
+#: functions.php:268
+msgid "Column #2 Footer Widget Area"
+msgstr ""
+
+#: functions.php:277
+msgid "Column #3 Footer Widget Area"
+msgstr ""
+
+#: functions.php:287
+msgid "Column #4 Footer Widget Area"
+msgstr ""
+
+#: functions.php:296
+msgid "Column #5 Footer Widget Area"
+msgstr ""
+
+#: comments.php:25 comments.php:96
+msgid "Comment"
+msgstr ""
+
+#: comments.php:29
+msgid "Comments"
+msgstr ""
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:193
+msgid "Company"
+msgstr ""
+
+#: functions.php:194
+msgid "Company name"
+msgstr ""
+
+#: templates/single_job_center.php:538 templates/single_company_wide.php:113
+#: templates/single_job_wide.php:539 templates/single_company_side.php:116
+#: templates/single_job_side.php:549 templates/single_company_center.php:115
+msgid "Company size"
+msgstr ""
+
+#: functions.php:190
+msgid "Delete"
+msgstr ""
+
+#: functions.php:196
+msgid "Description"
+msgstr ""
+
+#: functions.php:62
+msgid "Dismiss this notice"
+msgstr ""
+
+#: templates/single_candidate_side.php:463
+#: templates/single_candidate_wide.php:445
+#: templates/single_candidate_center.php:443
+msgid "Download Resume"
+msgstr ""
+
+#: functions.php:202
+msgid "E.g. Architecure"
+msgstr ""
+
+#: functions.php:189 functions.php:591
+msgid "Edit"
+msgstr ""
+
+#: templates/single_candidate_side.php:236
+#: templates/single_candidate_wide.php:237
+#: templates/single_candidate_center.php:234
+msgid "Education & Training"
+msgstr ""
+
+#: comments.php:131 templates/single_candidate_side.php:291
+#: templates/single_candidate_wide.php:275 templates/single_job_center.php:601
+#: templates/single_company_wide.php:176 templates/single_job_wide.php:602
+#: templates/single_candidate_center.php:273
+#: templates/single_company_side.php:179 templates/single_job_side.php:612
+#: templates/single_company_center.php:178
+msgid "Email"
+msgstr ""
+
+#: templates/single_job_center.php:460 templates/single_job_wide.php:461
+#: templates/single_job_side.php:471
+msgid "Employment Type"
+msgstr ""
+
+#: templates/single_job_center.php:436 templates/single_job_wide.php:437
+#: templates/single_job_side.php:447
+msgid "Experience"
+msgstr ""
+
+#: templates/single_job_center.php:555 templates/single_company_wide.php:130
+#: templates/single_job_wide.php:556 templates/single_company_side.php:133
+#: templates/single_job_side.php:566 templates/single_company_center.php:132
+msgid "Founded in"
+msgstr ""
+
+#: 404.php:29
+msgid "Go Home"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://pixelprime.co/"
+msgstr ""
+
+#. URI of the theme
+msgid "http://pixelprime.co/themes/jobster-wp/"
+msgstr ""
+
+#: templates/single_job_center.php:121 templates/single_job_wide.php:121
+#: templates/single_job_side.php:131
+msgid "in"
+msgstr ""
+
+#: templates/single_job_center.php:524 templates/single_company_wide.php:99
+#: templates/single_job_wide.php:525 templates/single_company_side.php:102
+#: templates/single_job_side.php:535 templates/single_company_center.php:101
+msgid "Industry"
+msgstr ""
+
+#: functions.php:43
+msgid "Install Plugins"
+msgstr ""
+
+#: functions.php:42
+msgid "Install Required Plugins"
+msgstr ""
+
+#: functions.php:44
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: functions.php:203
+msgid "Institution"
+msgstr ""
+
+#: functions.php:204
+msgid "Institution name"
+msgstr ""
+
+#: functions.php:191 functions.php:192
+msgid "Job title"
+msgstr ""
+
+#: templates/single_company_wide.php:81 templates/single_company_side.php:84
+#: templates/single_company_center.php:82
+#, php-format
+msgid "Jobs posted by %s"
+msgstr ""
+
+#. Name of the theme
+msgid "Jobster"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Jobster is a modern, clean and intuitive WordPress theme designed for job "
+"board websites."
+msgstr ""
+
+#: templates/articles_cards.php:32 templates/articles_boxed.php:25
+#: templates/articles_list.php:30 templates/author_boxed.php:39
+msgid "Latest Articles"
+msgstr ""
+
+#: comments.php:82
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:83
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: header-dashboard.php:28 header.php:29
+msgid "Loading..."
+msgstr ""
+
+#: templates/single_candidate_side.php:307
+#: templates/single_candidate_wide.php:291 templates/single_job_center.php:617
+#: templates/single_company_wide.php:189 templates/single_job_wide.php:618
+#: templates/single_candidate_center.php:289
+#: templates/single_company_side.php:192 templates/single_job_side.php:628
+#: templates/single_company_center.php:191
+msgid "Location"
+msgstr ""
+
+#: functions.php:250
+msgid "Main Widget Area"
+msgstr ""
+
+#: functions.php:185
+msgid "N/A"
+msgstr ""
+
+#: comments.php:115
+msgid "Name"
+msgstr ""
+
+#: comments.php:58
+msgid "Newer Comments"
+msgstr ""
+
+#: functions.php:59
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: templates/search_list.php:128 templates/search_cards.php:129
+#: templates/search_boxed.php:120
+msgid "No articles found."
+msgstr ""
+
+#: templates/related_posts.php:118 templates/related_posts.php:123
+msgid "No related articles"
+msgstr ""
+
+#: comments.php:53
+msgid "Older Comments"
+msgstr ""
+
+#: 404.php:21
+msgid "Page not found"
+msgstr ""
+
+#: functions.php:403
+msgid "Pagination"
+msgstr ""
+
+#: templates/single_candidate_side.php:324
+#: templates/single_candidate_wide.php:308 templates/single_job_center.php:572
+#: templates/single_company_wide.php:147 templates/single_job_wide.php:573
+#: templates/single_candidate_center.php:306
+#: templates/single_company_side.php:150 templates/single_job_side.php:583
+#: templates/single_company_center.php:149
+msgid "Phone"
+msgstr ""
+
+#. Author of the theme
+msgid "Pixel Prime"
+msgstr ""
+
+#: functions.php:64
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: functions.php:57
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: functions.php:60
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: comments.php:89
+msgid "Post Comment"
+msgstr ""
+
+#: single.php:43
+msgid "Posted in"
+msgstr ""
+
+#: templates/featured_posts_carousel.php:81
+msgid "Read Article"
+msgstr ""
+
+#: templates/search_list.php:119 templates/author_cards.php:130
+#: templates/articles_cards.php:124 templates/archive_cards.php:133
+#: templates/search_cards.php:119 templates/related_posts.php:108
+#: templates/articles_boxed.php:115 templates/archive_boxed.php:124
+#: templates/search_boxed.php:110 templates/author_list.php:130
+#: templates/articles_list.php:124 templates/author_boxed.php:130
+#: templates/archive_list.php:133
+msgid "Read more"
+msgstr ""
+
+#: functions.php:184
+msgid "Rejected"
+msgstr ""
+
+#: templates/related_posts.php:10
+msgid "Related Articles"
+msgstr ""
+
+#: templates/single_candidate_side.php:416
+#: templates/single_candidate_wide.php:400
+#: templates/single_candidate_center.php:398
+msgid "Restricted contact info. You need company account to have access."
+msgstr ""
+
+#: templates/single_candidate_side.php:267
+#: templates/single_candidate_wide.php:472
+#: templates/single_candidate_center.php:466
+msgid "Restricted content. You need company account to have access."
+msgstr ""
+
+#: functions.php:56
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: templates/single_job_center.php:474 templates/single_job_wide.php:475
+#: templates/single_job_side.php:485
+msgid "Salary"
+msgstr ""
+
+#: templates/search_list.php:28 templates/search_cards.php:30
+#: templates/search_boxed.php:23
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: templates/single_candidate_side.php:339
+#: templates/single_candidate_wide.php:323 templates/single_job_center.php:587
+#: templates/single_company_wide.php:162 templates/single_job_wide.php:588
+#: templates/single_candidate_center.php:321
+#: templates/single_company_side.php:165 templates/single_job_side.php:598
+#: templates/single_company_center.php:164
+msgid "Show"
+msgstr ""
+
+#: functions.php:476
+msgid "Show me more"
+msgstr ""
+
+#: templates/single_candidate_side.php:274
+#: templates/single_candidate_side.php:423
+#: templates/single_candidate_wide.php:407
+#: templates/single_candidate_wide.php:479
+#: templates/single_candidate_center.php:405
+#: templates/single_candidate_center.php:473
+msgid "Sign In Now"
+msgstr ""
+
+#: templates/single_candidate_side.php:159
+#: templates/single_candidate_wide.php:160
+#: templates/single_candidate_center.php:157
+msgid "Skills"
+msgstr ""
+
+#: functions.php:46
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: functions.php:201
+msgid "Specialization/Course of study"
+msgstr ""
+
+#: functions.php:261
+msgid "The first column footer widget area"
+msgstr ""
+
+#: functions.php:49
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:58
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: functions.php:52
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:51
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:289 functions.php:298
+msgid "The fourth column footer widget area"
+msgstr ""
+
+#: functions.php:252
+msgid "The main widget area"
+msgstr ""
+
+#: functions.php:270
+msgid "The second column footer widget area"
+msgstr ""
+
+#: functions.php:279
+msgid "The third column footer widget area"
+msgstr ""
+
+#: functions.php:63
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: functions.php:50
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: 404.php:14
+msgid "This page is off the map"
+msgstr ""
+
+#: functions.php:48
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:47
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:195
+msgid "Time period"
+msgstr ""
+
+#: functions.php:100
+msgid "Top primary menu"
+msgstr ""
+
+#: functions.php:197
+msgid "Type a short description..."
+msgstr ""
+
+#: functions.php:200
+msgid "Update"
+msgstr ""
+
+#: functions.php:45
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: single.php:48 templates/search_list.php:95 templates/author_cards.php:105
+#: templates/articles_cards.php:99 templates/archive_cards.php:108
+#: templates/search_cards.php:94 templates/related_posts.php:83
+#: templates/articles_boxed.php:90 templates/archive_boxed.php:99
+#: templates/search_boxed.php:85 templates/author_list.php:106
+#: templates/articles_list.php:100 templates/author_boxed.php:105
+#: templates/archive_list.php:109
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: templates/single_job_center.php:513 templates/single_job_wide.php:514
+#: templates/single_job_side.php:524
+msgid "View profile"
+msgstr ""
+
+#: functions.php:158
+msgid "Visitors"
+msgstr ""
+
+#: functions.php:163
+msgid "vs last 12 months"
+msgstr ""
+
+#: functions.php:160
+msgid "vs last 30 days"
+msgstr ""
+
+#: functions.php:161
+msgid "vs last 60 days"
+msgstr ""
+
+#: functions.php:159
+msgid "vs last 7 days"
+msgstr ""
+
+#: functions.php:162
+msgid "vs last 90 days"
+msgstr ""
+
+#: 404.php:17
+msgid "We can't seem to find the page you're looking for."
+msgstr ""
+
+#: comments.php:147 templates/single_candidate_side.php:353
+#: templates/single_candidate_wide.php:337 templates/single_job_center.php:631
+#: templates/single_company_wide.php:203 templates/single_job_wide.php:632
+#: templates/single_candidate_center.php:335
+#: templates/single_company_side.php:203 templates/single_job_side.php:642
+#: templates/single_company_center.php:205
+msgid "Website"
+msgstr ""
+
+#: templates/single_candidate_side.php:190
+#: templates/single_candidate_wide.php:191
+#: templates/single_candidate_center.php:188
+msgid "Work Experience"
+msgstr ""
+
+#: templates/single_job_center.php:448 templates/single_job_wide.php:449
+#: templates/single_job_side.php:459
+msgid "Work Level"
+msgstr ""
+
+#: comments.php:104
+msgid "Write your comment..."
+msgstr ""
+
+#: functions.php:570
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: comments.php:91
+msgid "Your email address will not be published. "
+msgstr ""

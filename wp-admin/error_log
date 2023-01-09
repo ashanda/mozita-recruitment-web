@@ -1,0 +1,17 @@
+[20-Sep-2022 04:05:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/mozitaco/public_html/recruitment/wp-content/plugins/jobster-plugin/services/update-candidate-profile.php on line 284
+[20-Sep-2022 04:06:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/mozitaco/public_html/recruitment/wp-content/plugins/jobster-plugin/services/update-candidate-profile.php on line 284
+[20-Sep-2022 04:09:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/mozitaco/public_html/recruitment/wp-content/plugins/jobster-plugin/services/update-candidate-profile.php on line 284
+[20-Sep-2022 04:11:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/mozitaco/public_html/recruitment/wp-content/plugins/jobster-plugin/services/update-candidate-profile.php on line 284
+[20-Sep-2022 04:12:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/mozitaco/public_html/recruitment/wp-content/plugins/jobster-plugin/services/update-candidate-profile.php on line 284
+[20-Sep-2022 04:17:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/mozitaco/public_html/recruitment/wp-content/plugins/jobster-plugin/services/update-candidate-profile.php on line 284
+[20-Sep-2022 04:19:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/mozitaco/public_html/recruitment/wp-content/plugins/jobster-plugin/services/update-candidate-profile.php on line 284
+[20-Sep-2022 04:32:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/mozitaco/public_html/recruitment/wp-content/plugins/jobster-plugin/services/update-candidate-profile.php on line 284
+[20-Sep-2022 04:37:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/mozitaco/public_html/recruitment/wp-content/plugins/jobster-plugin/services/update-candidate-profile.php on line 284
+[20-Sep-2022 04:38:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/mozitaco/public_html/recruitment/wp-content/plugins/jobster-plugin/services/update-candidate-profile.php on line 284
+[20-Sep-2022 04:54:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/mozitaco/public_html/recruitment/wp-content/plugins/jobster-plugin/services/update-candidate-profile.php on line 284
+[20-Sep-2022 05:01:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/mozitaco/public_html/recruitment/wp-content/plugins/jobster-plugin/services/update-candidate-profile.php on line 284
+[20-Sep-2022 05:10:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/mozitaco/public_html/recruitment/wp-content/plugins/jobster-plugin/services/update-candidate-profile.php on line 284
+[20-Sep-2022 05:44:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/mozitaco/public_html/recruitment/wp-content/plugins/jobster-plugin/services/update-candidate-profile.php on line 284
+[20-Sep-2022 05:49:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/mozitaco/public_html/recruitment/wp-content/plugins/jobster-plugin/services/update-candidate-profile.php on line 284
+[20-Sep-2022 09:01:05 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home1/mozitaco/public_html/recruitment/wp-includes/class-wp-image-editor-imagick.php on line 375
+[20-Sep-2022 10:25:55 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home1/mozitaco/public_html/recruitment/wp-includes/class-wp-image-editor-imagick.php on line 386
